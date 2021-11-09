@@ -1,0 +1,19 @@
+---
+layout: _layouts/base.njk
+---
+<div id="bio">
+    <img src="assets/img/profile.jpg" alt="Rachael Davis headshot">
+
+    {{ content | safe }}
+</div>
+
+{% set maxPosts = collections.posts.length | min(metadata.postListLength) %}
+<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+
+{% set postsList = collections.posts | head(-metadata.postListLength) %}
+
+{% include "postlist.njk" %}
+
+{% if collections.posts | length > metadata.postListLength %}
+    <p>More posts can be found in <a href="/posts/">the archive</a>.</p>
+{% endif %}

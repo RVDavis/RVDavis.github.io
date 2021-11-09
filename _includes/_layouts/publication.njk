@@ -1,0 +1,16 @@
+---
+layout: _layouts/base.njk
+---
+<a target="_blank" href="{{ publicationPath }}"><h1>{{ title }}</h1></a>
+
+<p>{{ authors | join(", ")}}</p>
+
+<p>{{ year }}</p>
+
+<a href="{{ publicationPath }}" download="">
+    <button>Download</button>
+</a>
+
+<h2>Abstract</h2>
+
+{{ content | safe }}

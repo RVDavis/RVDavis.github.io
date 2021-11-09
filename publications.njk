@@ -1,0 +1,16 @@
+---
+layout: _layouts/base.njk
+eleventyNavigation:
+    key: Publications
+    order: 4
+---
+<h1>Publications</h1>
+{% for paper in collections.publications %}
+<ul>
+    <li>
+        <a href="{{ paper.url | url }}"><h3>{{ paper.data.title }}</h3></a>
+        <p>{{ paper.data.authors | join(", ") }}</p>
+        <p>{{ paper.data.year }}</p>
+    </li>
+</ul>
+{% endfor %}

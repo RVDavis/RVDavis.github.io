@@ -1,0 +1,16 @@
+<div class="post-list">
+    <ul>
+    {% for entry in postsList | reverse %}
+        <li>
+            <a href="{{ entry.url | url }}">{{ entry.data.title }}</a>
+            <time datetime="{{entry.data.date}}">{{ entry.data.date | readableDate }}</time>
+            {% for tag in entry.data.tags | filterTagList %}
+                <a href="/tags/{{ tag }}/"><button>{{ tag }}</button></a>
+            {% endfor %}
+            {% if entry.data.content %}
+                <p>{{ entry.data.content | truncate(100) | safe }}</p>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+</div>
