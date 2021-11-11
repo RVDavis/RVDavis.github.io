@@ -1,9 +1,6 @@
 ---
 title: About Me
 layout: _layouts/about.njk
-eleventyNavigation:
-    key: About Me
-    order: 2
 ---
 
 I focus on children’s development, my research has two key strands. The first

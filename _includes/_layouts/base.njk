@@ -9,8 +9,12 @@
 <body>
     <header>
         <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-        {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
     </header>
+    <nav>
+        <a href="/about/">About Me</a> |
+        <a href="/publications/">Publications</a> |
+        <a href="/posts/">Archive</a>
+    </nav>
     <hr>
     <main>
         {{ content | safe }}

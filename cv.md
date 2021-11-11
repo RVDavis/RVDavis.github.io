@@ -2,9 +2,6 @@
 title: CV
 permalink: /about/cv/
 layout: _layouts/cv.njk
-eleventyNavigation:
-    key: CV
-    parent: About Me
 ---
 ## EDUCATION
 

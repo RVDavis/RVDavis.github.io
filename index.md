@@ -1,9 +1,6 @@
 ---
 title: Home
 layout: _layouts/home.njk
-eleventyNavigation:
-    key: Home
-    order: 1
 ---
 
 I am a developmental psychologist whose research focuses on autism, cognition, and education (mostly!). Central to my work is a commitment to involving the communities that I study in the research process; ensuring this research has a strong participatory ethos and is of direct and has real-world relevance to the people that matter.
