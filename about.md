@@ -1,5 +1,6 @@
 ---
 title: About Me
+nav_order: 1
 layout: _layouts/about.njk
 ---
 

@@ -1,3 +1,5 @@
-{% for tag in collections.tagList %}
-    <a href="/tags/{{ tag }}/"><button>{{ tag }}</button></a>
-{% endfor %}
+<div class="tag-list">
+    {% for tag in collections.tagList %}
+        <a href="/tags/{{ tag }}/"><button>{{ tag }}</button></a>
+    {% endfor %}
+</div>

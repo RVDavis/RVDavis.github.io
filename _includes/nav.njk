@@ -1,0 +1,9 @@
+<nav>
+    {% for page in collections.navList %}
+        {% if page == collections.navList | last %}
+            <a href="{{ page.url }}">{{ page.data.title }}</a>
+        {% else %}
+            <a href="{{ page.url }}">{{ page.data.title }}</a> |
+        {% endif %}
+    {% endfor %}
+</nav>

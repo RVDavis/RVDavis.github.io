@@ -26,7 +26,7 @@ module.exports = function(eleventyConfig) {
 
     // filter out generic tags from tag collection
     function filterTagList(tags) {
-        return (tags || []).filter(tag => ["post", "posts"].indexOf(tag) == -1);
+        return (tags || []).filter(tag => ["post", "posts", "publication", "publications"].indexOf(tag) == -1);
     }
 
     eleventyConfig.addFilter("filterTagList", filterTagList);
@@ -40,7 +40,9 @@ module.exports = function(eleventyConfig) {
         return filterTagList([...tagSet]);
     })
 
-    eleventyConfig.addFilter('join', function(array, separator) {
-        return array.join(separator);
+    eleventyConfig.addCollection("navList", function(collection) {
+        return collection.getAll()
+            .filter(item => item.data.nav_order)
+            .sort((a, b) => a.data.nav_order - b.data.nav_order);
     })
 }
