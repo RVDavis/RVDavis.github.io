@@ -13,7 +13,7 @@
     {% include "nav.njk" %}
     <hr>
     <main>
-        <h1>{% if title != "Home" %}{{title}}{% else %} {% endif %}</h1>
+        <h1>{% if title != "Home" %}{{ title }}{% else %} {% endif %}</h1>
         {{ content | safe }}
     </main>
 </body>

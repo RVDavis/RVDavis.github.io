@@ -42,7 +42,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection("navList", function(collection) {
         return collection.getAll()
-            .filter(item => item.data.nav_order)
-            .sort((a, b) => a.data.nav_order - b.data.nav_order);
+            .filter(item => item.data.nav)
+            .sort((a, b) => a.data.nav.order - b.data.nav.order);
     })
 }
