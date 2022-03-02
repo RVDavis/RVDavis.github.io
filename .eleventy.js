@@ -1,11 +1,17 @@
 const { DateTime } = require("luxon")
 
 module.exports = function(eleventyConfig) {
+    //add css to watch list
+    eleventyConfig.addWatchTarget("./css/")
 
+    // copy images to _site
     eleventyConfig.addPassthroughCopy("assets");
+    // copy css to _site
+    eleventyConfig.addPassthroughCopy("css");
 
     eleventyConfig.setDataDeepMerge(true);
 
+    // CUSTOM FILTERS
     eleventyConfig.addFilter("head", function(array, n) {
         if(!Array.isArray(array) || array.length === 0) {
             return [];

@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "gulp": "^4.0.2",
+    "gulp-atomizer": "^3.0.7",
     "luxon": "^1.28.0"
   }
 }
