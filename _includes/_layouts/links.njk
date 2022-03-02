@@ -1,0 +1,11 @@
+---
+layout: _layouts/base.njk
+---
+<ul>
+{% for link in links %}
+    <li>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        <p>{% if link.description %}{{ link.description }}{% endif %}</p>
+    </li>
+{% endfor %}
+</ul>
