@@ -1,9 +1,104 @@
+.Bdrs\(50\%\) {
+  border-radius: 50%;
+}
+.Bg\(n\)\:hover:hover {
+  background: none;
+}
+.Bgc\(mainColour\) {
+  background-color: #f5f5fc;
+}
 .C\(blue\) {
   color: blue;
 }
 .C\(green\) {
   color: green;
 }
+.C\(orange\) {
+  color: orange;
+}
 .C\(red\) {
   color: red;
+}
+.C\(black\)\:visited:visited {
+  color: black;
+}
+.C\(blue\)\:visited:visited {
+  color: blue;
+}
+.C\(green\)\:visited:visited {
+  color: green;
+}
+.C\(orange\)\:visited:visited {
+  color: orange;
+}
+.C\(red\)\:visited:visited {
+  color: red;
+}
+.D\(f\) {
+  display: flex;
+}
+.D\(i\) {
+  display: inline;
+}
+.Ai\(fs\) {
+  align-items: flex-start;
+}
+.Jc\(c\) {
+  justify-content: center;
+}
+.Jc\(sb\) {
+  justify-content: space-between;
+}
+.Ff\(danley\) {
+  font-family: OPTIDanley-Bold;
+}
+.Fz\(3rem\) {
+  font-size: 3rem;
+}
+.Fs\(i\) {
+  font-style: italic;
+}
+.M\(0\) {
+  margin: 0;
+}
+.M\(a\) {
+  margin: auto;
+}
+.My\(0\.5rem\) {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.Mt\(2\.5rem\) {
+  margin-top: 2.5rem;
+}
+.Mt\(20px\) {
+  margin-top: 20px;
+}
+.Mstart\(30px\) {
+  margin-left: 30px;
+}
+.Maw\(2\/3\) {
+  max-width: 66.6667%;
+}
+.T\(0\) {
+  top: 0;
+}
+.Pstart\(20px\) {
+  padding-left: 20px;
+}
+.Pos\(r\) {
+  position: relative;
+}
+.Pos\(st\) {
+  position: sticky;
+}
+.W\(1\/5\) {
+  width: 20%;
+}
+.BdB {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+  border-left-width: 0;
+  border-style: solid;
 }

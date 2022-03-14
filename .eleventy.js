@@ -2,7 +2,7 @@ const { DateTime } = require("luxon")
 
 module.exports = function(eleventyConfig) {
     //add css to watch list
-    eleventyConfig.addWatchTarget("./css/")
+    // eleventyConfig.addWatchTarget("./css/")
 
     // copy images to _site
     eleventyConfig.addPassthroughCopy("assets");
@@ -36,6 +36,15 @@ module.exports = function(eleventyConfig) {
     }
 
     eleventyConfig.addFilter("filterTagList", filterTagList);
+
+    eleventyConfig.addCollection("years", function(collection) {
+        const yearSet = new Set();
+        collection.getFilteredByTag("publications").forEach(element => {
+            if (element.data.year) yearSet.add(element.data.year)
+        })
+
+        return yearSet;
+    })
 
     eleventyConfig.addCollection("tagList", function(collection) {
         const tagSet = new Set();

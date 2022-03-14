@@ -1,4 +1,41 @@
-body {
-	/* font-family: 'Nunito'; */
-	font-family: 'Source Serif Pro'
+@font-face {
+	font-family: OPTIDanley-Bold;
+	src: url(/assets/OPTIDanley-Bold.otf)
+}
+
+html {
+	/* background-color: #f5f5fc; */
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+	font-size: 17px;
+}
+
+h1, h2, h3 {
+	font-family: OPTIDanley-Bold;
+}
+
+hr {
+	height: 1px;
+	border-width: 0;
+	color: black;
+	background-color: black;
+}
+
+a:link, a:visited {
+	color: #f01c00;
+	text-decoration: none; 
+}
+a:hover {
+	/* color: silver; */
+	text-decoration: underline;
+	color: black;
+	background: yellow;
+}
+
+img {
+	width: 100%;
+}
+
+.shadow {
+	box-shadow: 0.5rem 0.5rem 1rem gray;
 }

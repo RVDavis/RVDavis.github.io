@@ -4,12 +4,20 @@ nav:
     order: 2
 layout: _layouts/base.njk
 ---
-<ul>
-{% for paper in collections.publications %}
-        <li>
-        <a href="{{ paper.url | url }}"><h3>{{ paper.data.title }}</h3></a>
-        <p>{{ paper.data.authors | join(", ") }}</p>
-        <p>{{ paper.data.year }}</p>
-        </li>
+{% for year in collections.years %}
+        <h2>{{ year }}</h2>
+        <ul>
+                {% for paper in collections.publications %}
+                        {% if paper.data.year == year %}
+                                <li>
+                                        <h3><a href="{{ paper.url | url }}">{{ paper.data.title }}</a></h3>
+                                        <p class="Fs(i)">{{ paper.data.authors | join(", ") }}</p>
+                                </li>
+                                {% if paper !== collections.publications | last %}
+                                        <hr>
+                                {% endif %}
+                        {% endif %}
+                {% endfor %}
+        </ul>
+
 {% endfor %}
-</ul>

@@ -12,8 +12,10 @@ pagination:
         - tagList
 permalink: /tags/{{ tag | slug }}/
 ---
-<h1>Tagged "{{ tag }}"</h1>
+<h1>Tagged "{{ tag  }}"</h1>
 
 {% include "taglist.njk" %}
-{%set postsList = collections[ tag ]%}
+
+{% set postsList = collections[ tag ]%}
+
 {% include "postlist.njk" %}

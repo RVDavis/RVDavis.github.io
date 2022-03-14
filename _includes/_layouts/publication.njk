@@ -1,11 +1,11 @@
 ---
 layout: _layouts/base.njk
 ---
-<p>{{ authors | join(", ")}}</p>
+<hr>
 
-<p>{{ year }}</p>
+<p class="Fs(i)">{{ authors | join(", ")}} ({{ year }})</p>
 
-<a href="{{ publicationPath }}" download="">
+<a class="Bg(n):hover"href="{{ publicationPath }}" download="">
     <button>Download</button>
 </a>
 

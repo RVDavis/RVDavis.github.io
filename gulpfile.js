@@ -3,11 +3,13 @@ var acss = require('gulp-atomizer');
 
 gulp.task('acss', function () {
 	return gulp
-		.src('./**/*.njk')
-		.pipe(acss())
-		.pipe(gulp.dest('./css/'))
+		.src('_site/**/*.html')
+		.pipe(acss({
+			acssConfig: require('./css/config.js')
+		}))
+		.pipe(gulp.dest('_site/css/'))
 })
 
 gulp.task('default', function() {
-	gulp.watch('./**/*.njk', gulp.series('acss'));
+	gulp.watch('_site/**/*.html', gulp.series('acss'));
 })

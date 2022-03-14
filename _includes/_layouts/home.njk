@@ -1,19 +1,22 @@
 ---
 layout: _layouts/base.njk
 ---
-<div id="bio">
-    <img src="assets/img/profile.jpg" alt="Rachael Davis headshot">
-
-    {{ content | safe }}
+<div id="bio" class="D(f) Jc(c) Ai(fs)">
+    <img class="Bdrs(50%) Mt(20px) W(1/5)" src="/assets/img/rachael_trees.jpg" alt="Rachael Davis">
+    <div class="Mstart(30px)">
+        {{ content | safe }}
+    </div>
 </div>
 
+<hr>
+
 {% set maxPosts = collections.posts.length | min(metadata.postListLength) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} posts{% endif %}</h1>
 
 {% set postsList = collections.posts | head(metadata.postListLength) %}
 
 {% include "postlist.njk" %}
 
 {% if collections.posts | length > metadata.postListLength %}
-    <p>More posts can be found in <a href="/archive/">the archive</a>.</p>
+    <p class="Mt(2.5rem)">More posts can be found in <a href="/blog/">my blog</a>.</p>
 {% endif %}

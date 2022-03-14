@@ -1,11 +1,13 @@
-<nav>
-    {% set colours = ["blue", "red", "green", "pink", "orange"] %}
+<nav class="My(0.5rem)">
+    {% set colours = ["blue", "red", "green", "orange", "purple"] %}
     {% for page in collections.navList %}
         {% set colour = colours[loop.index0] %}
         {% if page == collections.navList | last %}
-            <a href="{{ page.url }}" class="C({{ colour }})">{{ page.data.title }}</a>
+            <a href="{{ page.url }}" class="C({{ colour }}) C({{ colour
+                }}):visited">{{ page.data.title }}</a>
         {% else %}
-            <a href="{{ page.url }}" class="C({{ colour }})">{{ page.data.title }}</a> |
+            <a href="{{ page.url }}" class="C({{ colour }}) C({{ colour
+                }}):visited">{{ page.data.title }}</a> |
         {% endif %}
     {% endfor %}
 </nav>

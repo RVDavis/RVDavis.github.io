@@ -10,3 +10,4 @@ layout: _layouts/post.njk
 permalink: /posts/{{ title | slug }}/
 ---
 In this post I will expand on the nothingness of my thoughts - look a squirrel!
+[link to third post pooooo](/publications/paper-01)

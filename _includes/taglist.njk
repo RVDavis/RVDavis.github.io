@@ -1,5 +1,6 @@
 <div class="tag-list">
+    <p class="D(i)">All tags: </p>
     {% for tag in collections.tagList %}
-        <a href="/tags/{{ tag }}/"><button>{{ tag }}</button></a>
+        <a href="/tags/{{ tag }}/">{{ tag }}</a> |
     {% endfor %}
 </div>
