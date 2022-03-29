@@ -16,8 +16,6 @@
                 <p>{{ entry.data.content | truncate(250) | safe }}</p>
             {% endif %}
         </li>
-        {% if entry !== postsList | reverse | last %}
             <hr>
-        {% endif %}
     {% endfor %}
 </ul>

@@ -135,6 +135,9 @@
 .Mb\(40px\) {
   margin-bottom: 40px;
 }
+.Mb\(4em\) {
+  margin-bottom: 4em;
+}
 .Mstart\(30px\) {
   margin-left: 30px;
 }
@@ -190,6 +193,9 @@
 }
 .W\(350px\) {
   width: 350px;
+}
+.W\(3em\) {
+  width: 3em;
 }
 .Fill\(mainColour\)\:hover:hover {
   fill: #fffcfa;
