@@ -1,7 +1,7 @@
 ---
 title: Links
 nav:
-    order: 4
+    order: 5
 layout: _layouts/links.njk
 permalink: /links/
 links:

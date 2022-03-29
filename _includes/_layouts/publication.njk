@@ -3,11 +3,13 @@ layout: _layouts/base.njk
 ---
 <hr>
 
+<div class="Mb(40px)">
 <p class="Fs(i)">{{ authors | join(", ")}} ({{ year }})</p>
 
 <a class="Bg(n):hover"href="{{ publicationPath }}" download="">
     <button>Download</button>
 </a>
+</div>
 
 <h2>Abstract</h2>
 

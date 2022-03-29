@@ -1,3 +1,21 @@
+.Bdc\(black\) {
+  border-color: black;
+}
+.Bdc\(gray\) {
+  border-color: gray;
+}
+.Bdbc\(gray\) {
+  border-bottom-color: gray;
+}
+.Bdbs\(da\) {
+  border-bottom-style: dashed;
+}
+.Bdbs\(do\) {
+  border-bottom-style: double;
+}
+.Bdbw\(t\) {
+  border-bottom-width: thin;
+}
 .Bdrs\(50\%\) {
   border-radius: 50%;
 }
@@ -5,16 +23,25 @@
   background: none;
 }
 .Bgc\(mainColour\) {
-  background-color: #f5f5fc;
+  background-color: #fffcfa;
+}
+.Bgc\(\#f01c00\)\:hover:hover {
+  background-color: #f01c00;
 }
 .C\(blue\) {
   color: blue;
+}
+.C\(darkslategray\) {
+  color: darkslategray;
 }
 .C\(green\) {
   color: green;
 }
 .C\(orange\) {
   color: orange;
+}
+.C\(purple\) {
+  color: purple;
 }
 .C\(red\) {
   color: red;
@@ -31,6 +58,9 @@
 .C\(orange\)\:visited:visited {
   color: orange;
 }
+.C\(purple\)\:visited:visited {
+  color: purple;
+}
 .C\(red\)\:visited:visited {
   color: red;
 }
@@ -40,8 +70,20 @@
 .D\(i\) {
   display: inline;
 }
-.Ai\(fs\) {
-  align-items: flex-start;
+.D\(ib\) {
+  display: inline-block;
+}
+.As\(fe\) {
+  align-self: flex-end;
+}
+.Fxd\(c\) {
+  flex-direction: column;
+}
+.Ai\(c\) {
+  align-items: center;
+}
+.Ai\(fe\) {
+  align-items: flex-end;
 }
 .Jc\(c\) {
   justify-content: center;
@@ -52,11 +94,14 @@
 .Ff\(danley\) {
   font-family: OPTIDanley-Bold;
 }
-.Fz\(3rem\) {
-  font-size: 3rem;
-}
 .Fs\(i\) {
   font-style: italic;
+}
+.H\(25px\) {
+  height: 25px;
+}
+.H\(2em\) {
+  height: 2em;
 }
 .M\(0\) {
   margin: 0;
@@ -64,27 +109,75 @@
 .M\(a\) {
   margin: auto;
 }
-.My\(0\.5rem\) {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+.My\(0\.5em\) {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.My\(2em\) {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.Mt\(0\) {
+  margin-top: 0;
 }
 .Mt\(2\.5rem\) {
   margin-top: 2.5rem;
 }
-.Mt\(20px\) {
-  margin-top: 20px;
+.Mend\(1em\) {
+  margin-right: 1em;
+}
+.Mb\(1\.5em\) {
+  margin-bottom: 1.5em;
+}
+.Mb\(1em\) {
+  margin-bottom: 1em;
+}
+.Mb\(40px\) {
+  margin-bottom: 40px;
 }
 .Mstart\(30px\) {
   margin-left: 30px;
 }
-.Maw\(2\/3\) {
-  max-width: 66.6667%;
+.Mah\(250px\) {
+  max-height: 250px;
+}
+.Maw\(250px\) {
+  max-width: 250px;
+}
+.Maw\(850px\) {
+  max-width: 850px;
+}
+.Mih\(150px\) {
+  min-height: 150px;
+}
+.Miw\(150px\) {
+  min-width: 150px;
 }
 .T\(0\) {
   top: 0;
 }
-.Pstart\(20px\) {
-  padding-left: 20px;
+.P\(5px\) {
+  padding: 5px;
+}
+.Px\(1\.5em\) {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+.Px\(2em\) {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.Pt\(1\.2em\) {
+  padding-top: 1.2em;
+}
+.Pend\(1em\) {
+  padding-right: 1em;
+}
+.Pb\(0\.5em\) {
+  padding-bottom: 0.5em;
+}
+.Pb\(2rem\) {
+  padding-bottom: 2rem;
 }
 .Pos\(r\) {
   position: relative;
@@ -92,13 +185,12 @@
 .Pos\(st\) {
   position: sticky;
 }
-.W\(1\/5\) {
-  width: 20%;
+.W\(25px\) {
+  width: 25px;
 }
-.BdB {
-  border-top-width: 0;
-  border-right-width: 0;
-  border-bottom-width: 1px;
-  border-left-width: 0;
-  border-style: solid;
+.W\(350px\) {
+  width: 350px;
+}
+.Fill\(mainColour\)\:hover:hover {
+  fill: #fffcfa;
 }

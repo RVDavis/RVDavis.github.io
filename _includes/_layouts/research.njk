@@ -1,0 +1,20 @@
+---
+layout: _layouts/base.njk
+---
+{% for project in collections.research %}
+    <div class="D(f) Jc(sb) My(2em)">
+        <div class="Pend(1em)">
+            <h2 class="Mt(0)">{{ project.data.title }}</h2>
+            <p>{{ project.data.content | safe }}</p>
+        </div>
+        <div class="D(f) Fxd(c)">
+            <div class="D(ib) As(fe) H(2em)">
+                {% for tag in project.data.tagss %}
+                    <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+                {% endfor %}
+            </div>
+            <img class="W(350px)" src="{{ project.data.imagePath }}" alt="">
+        </div>
+    </div>
+    <hr>
+{% endfor %}

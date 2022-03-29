@@ -32,7 +32,7 @@ module.exports = function(eleventyConfig) {
 
     // filter out generic tags from tag collection
     function filterTagList(tags) {
-        return (tags || []).filter(tag => ["post", "posts", "publication", "publications"].indexOf(tag) == -1);
+        return (tags || []).filter(tag => ["post", "posts", "publication", "publications", "research", "project", "projects"].indexOf(tag) == -1);
     }
 
     eleventyConfig.addFilter("filterTagList", filterTagList);
