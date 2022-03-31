@@ -2,7 +2,7 @@
 layout: _layouts/base.njk
 ---
 {% for project in collections.research %}
-    <div class="D(f)--md My(1em) Z(-1)">
+    <div class="D(f)--md My(1em) Z(-1) H(300px)--md">
         <div class="Pos(r) Mend(1em)--md Miw(2/5)--md H(300px) Bgp(c)
         Bgz(cv) Bgz(a)--md" style="background-image: url({{
             project.data.imagePath }})">
@@ -15,11 +15,10 @@ layout: _layouts/base.njk
                         <a href="/tags/{{ tag }}/">{{ tag }}</a> |
                     {% endfor %}
                 </div>
-                <p class="M(0)">{{ project.data.content | safe }}</p>
+                <div class="H(276px)--md Ov(s)--md BdB">
+                    {{ project.data.content | safe }}
+                </div>
             </div>
         </div>
     </div>
-    {% if project !== collections.research | last %}
-        <hr>
-    {% endif %}
 {% endfor %}

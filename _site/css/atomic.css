@@ -289,6 +289,12 @@
   .Fl\(n\)--md {
     float: none;
   }
+  .H\(276px\)--md {
+    height: 276px;
+  }
+  .H\(300px\)--md {
+    height: 300px;
+  }
   .Mend\(1em\)--md {
     margin-right: 1em;
   }
@@ -297,5 +303,8 @@
   }
   .Miw\(2\/5\)--md {
     min-width: 40%;
+  }
+  .Ov\(s\)--md {
+    overflow: scroll;
   }
 }
