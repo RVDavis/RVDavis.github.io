@@ -6,7 +6,7 @@ layout: _layouts/base.njk
 <div class="Mb(40px)">
 <p class="Fs(i)">{{ authors | join(", ")}} ({{ year }})</p>
 
-<a class="Bg(n):hover"href="{{ publicationPath }}" download="">
+<a class="Bg(n):hover"href="{{ publicationPath | url }}" download="">
     <button>Download</button>
 </a>
 </div>

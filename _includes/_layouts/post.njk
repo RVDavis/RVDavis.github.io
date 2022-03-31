@@ -6,7 +6,8 @@ layout: _layouts/base.njk
         <time class="Fs(i) C(lightslategray)" datetime="{{ date }}">{{ date | readableDate }}</time>
         <div>
             {% for tag in tags | filterTagList %}
-                <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+                {% set tagUrl = ["/tags/", tag, "/"] | join %}
+                <a href="{{ tagUrl | url }}">{{ tag }}</a> |
             {% endfor %}
         </div>
     </div>

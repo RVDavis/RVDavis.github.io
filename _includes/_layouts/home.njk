@@ -2,8 +2,9 @@
 layout: _layouts/base.njk
 ---
 <div id="bio" class="Mt(1em) D(f)--md Jc(c) Ai(c)">
-    <img class="Bdrs(50%) Miw(100px) Maw(150px) Maw(250px)--md Mih(100px) Mah(250px)
-    Fl(start) Fl(n)--md Mend(2em) My(1em)" src="/assets/img/rachael_trees.jpg" alt="Rachael Davis">
+    <img class="Bdrs(50%) Miw(100px) Maw(150px) Maw(250px)--md Mih(100px)
+    Mah(250px) Fl(start) Fl(n)--md Mend(2em) My(1em)" src="{{
+    /assets/img/rachael_trees.jpg | url}}" alt="Rachael Davis">
     <div>
         {{ content | safe }}
     </div>

@@ -12,7 +12,8 @@ layout: _layouts/base.njk
             <div class="D(f) Fxd(c) Miw(3/5)">
                 <div class="As(fe)">
                     {% for tag in project.data.tagss %}
-                        <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+                        {% set tagUrl = ["/tags/", tag, "/"] | join %}
+                        <a href="{{ tagUrl | url }}">{{ tag }}</a> |
                     {% endfor %}
                 </div>
                 <div class="H(276px)--md Ov(s)--md BdB">

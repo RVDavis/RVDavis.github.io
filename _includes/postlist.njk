@@ -8,7 +8,8 @@
                 <time class="Fs(i) C(lightslategray)" datetime="{{entry.data.date}}">{{ entry.data.date | readableDate }}</time>
                 <div>
                     {% for tag in entry.data.tags | filterTagList %}
-                        <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+                        {% set tagUrl = ["/tags/", tag, "/"] | join %}
+                        <a href="{{ tagUrl | url }}">{{ tag }}</a> |
                     {% endfor %}
                 </div>
             </div>
