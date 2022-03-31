@@ -4,9 +4,10 @@ authors:
     - Rachael Davis
     - Catherine J Crompton
 year: 2021
-journal: Perspectiives on Psychological Science
+journal: Perspectives on Psychological Science
 publicationPath: /assets/publications/paper-02.pdf
 layout: _layouts/publication.njk
+permalink: /publications/{{ title | slug }}/
 ---
 Deficit-based accounts of social and communication abilities continue to
 dominate autism research. However, emerging findings suggest that this view may

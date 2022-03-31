@@ -1,9 +1,9 @@
 ---
 layout: _layouts/base.njk
-title: "Yet another breakthough piece of research... suck it"
+title: "Understanding Autistic School Experiences"
 tagss:
     - nothing
-imagePath: /assets/img/an_allegory.jpg
+imagePath: /assets/img/education.jpg
 permalink: /research/{{ title | slug }}/
 ---
 I'm fucking winner y'all. This is probably too over your head but fuck me I'm

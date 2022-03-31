@@ -11,7 +11,7 @@ layout: _layouts/base.njk
 <hr>
 
 {% set maxPosts = collections.posts.length | min(metadata.postListLength) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} posts{% endif %}</h1>
+<h1 class="D(ib) Bdbs(da) Bdbw(t)">Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} posts{% endif %}</h1>
 
 {% set postsList = collections.posts | head(metadata.postListLength) %}
 

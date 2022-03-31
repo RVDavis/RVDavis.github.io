@@ -1,17 +1,20 @@
-.Bdc\(black\) {
-  border-color: black;
-}
-.Bdc\(gray\) {
-  border-color: gray;
-}
 .Bdbc\(gray\) {
   border-bottom-color: gray;
+}
+.Bdts\(s\) {
+  border-top-style: solid;
 }
 .Bdbs\(da\) {
   border-bottom-style: dashed;
 }
 .Bdbs\(do\) {
   border-bottom-style: double;
+}
+.Bdbs\(s\) {
+  border-bottom-style: solid;
+}
+.Bdtw\(t\) {
+  border-top-width: thin;
 }
 .Bdbw\(t\) {
   border-bottom-width: thin;
@@ -25,17 +28,23 @@
 .Bgc\(mainColour\) {
   background-color: #fffcfa;
 }
-.Bgc\(\#f01c00\)\:hover:hover {
-  background-color: #f01c00;
+.Bgz\(cv\) {
+  background-size: cover;
+}
+.Bgp\(c\) {
+  background-position: center;
 }
 .C\(blue\) {
   color: blue;
 }
-.C\(darkslategray\) {
-  color: darkslategray;
-}
 .C\(green\) {
   color: green;
+}
+.C\(lightslategray\) {
+  color: lightslategray;
+}
+.C\(mainColour\) {
+  color: #fffcfa;
 }
 .C\(orange\) {
   color: orange;
@@ -64,6 +73,12 @@
 .C\(red\)\:visited:visited {
   color: red;
 }
+.C\(lightslategray\)\:h:hover {
+  color: lightslategray;
+}
+.D\(b\) {
+  display: block;
+}
 .D\(f\) {
   display: flex;
 }
@@ -72,6 +87,12 @@
 }
 .D\(ib\) {
   display: inline-block;
+}
+.D\(n\) {
+  display: none;
+}
+.drop:hover .drop\:h_D\(b\) {
+  display: block;
 }
 .As\(fe\) {
   align-self: flex-end;
@@ -82,26 +103,14 @@
 .Ai\(c\) {
   align-items: center;
 }
-.Ai\(fe\) {
-  align-items: flex-end;
-}
 .Jc\(c\) {
   justify-content: center;
 }
 .Jc\(sb\) {
   justify-content: space-between;
 }
-.Ff\(danley\) {
-  font-family: OPTIDanley-Bold;
-}
 .Fs\(i\) {
   font-style: italic;
-}
-.H\(25px\) {
-  height: 25px;
-}
-.H\(2em\) {
-  height: 2em;
 }
 .M\(0\) {
   margin: 0;
@@ -113,8 +122,16 @@
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
-.My\(2em\) {
+.My\(1em\), .Mt\(1em\) {
+  margin-top: 1em;
+}
+.My\(1em\), .Mb\(1em\) {
+  margin-bottom: 1em;
+}
+.My\(2em\), .Mt\(2em\) {
   margin-top: 2em;
+}
+.My\(2em\) {
   margin-bottom: 2em;
 }
 .Mt\(0\) {
@@ -129,14 +146,11 @@
 .Mb\(1\.5em\) {
   margin-bottom: 1.5em;
 }
-.Mb\(1em\) {
-  margin-bottom: 1em;
-}
 .Mb\(40px\) {
   margin-bottom: 40px;
 }
-.Mb\(4em\) {
-  margin-bottom: 4em;
+.Mstart\(1em\) {
+  margin-left: 1em;
 }
 .Mstart\(30px\) {
   margin-left: 30px;
@@ -153,28 +167,46 @@
 .Mih\(150px\) {
   min-height: 150px;
 }
+.Mih\(300px\) {
+  min-height: 300px;
+}
 .Miw\(150px\) {
   min-width: 150px;
+}
+.Miw\(3\/5\) {
+  min-width: 60%;
 }
 .T\(0\) {
   top: 0;
 }
-.P\(5px\) {
-  padding: 5px;
+.T\(5px\) {
+  top: 5px;
+}
+.End\(1em\) {
+  right: 1em;
+}
+.B\(-8px\) {
+  bottom: -8px;
+}
+.P\(0\) {
+  padding: 0;
+}
+.P\(0\.5em\) {
+  padding: 0.5em;
+}
+.P\(2px\) {
+  padding: 2px;
 }
 .Px\(1\.5em\) {
   padding-left: 1.5em;
   padding-right: 1.5em;
 }
-.Px\(2em\) {
-  padding-left: 2em;
-  padding-right: 2em;
+.Px\(10px\) {
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.Pt\(1\.2em\) {
-  padding-top: 1.2em;
-}
-.Pend\(1em\) {
-  padding-right: 1em;
+.Pt\(10px\) {
+  padding-top: 10px;
 }
 .Pb\(0\.5em\) {
   padding-bottom: 0.5em;
@@ -182,21 +214,72 @@
 .Pb\(2rem\) {
   padding-bottom: 2rem;
 }
+.Pos\(a\) {
+  position: absolute;
+}
 .Pos\(r\) {
   position: relative;
 }
 .Pos\(st\) {
   position: sticky;
 }
-.W\(25px\) {
-  width: 25px;
-}
-.W\(350px\) {
-  width: 350px;
+.W\(100\%\) {
+  width: 100%;
 }
 .W\(3em\) {
   width: 3em;
 }
-.Fill\(mainColour\)\:hover:hover {
-  fill: #fffcfa;
+.Z\(-1\) {
+  z-index: -1;
+}
+.Z\(1\) {
+  z-index: 1;
+}
+.Z\(2\) {
+  z-index: 2;
+}
+@media(min-width:500px) {
+  .D\(b\)--sm {
+    display: block;
+  }
+  .D\(n\)--sm {
+    display: none;
+  }
+  .Fz\(3em\)--sm {
+    font-size: 3em;
+  }
+  .Maw\(3\/5\)--sm {
+    max-width: 60%;
+  }
+  .Px\(1\.5em\)--sm {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+  .Px\(2em\)--sm {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .Pt\(1\.2em\)--sm {
+    padding-top: 1.2em;
+  }
+}
+@media(min-width:900px) {
+  .Bgz\(a\)--md {
+    background-size: auto;
+  }
+  .D\(b\)--md {
+    display: block;
+  }
+  .D\(f\)--md {
+    display: flex;
+  }
+  .D\(n\)--md {
+    display: none;
+  }
+  .Maw\(2\/5\)--md {
+    max-width: 40%;
+  }
+  .Miw\(2\/5\)--md {
+    min-width: 40%;
+  }
 }

@@ -1,9 +1,9 @@
 ---
 layout: _layouts/base.njk
-title: "End game research"
+title: "Charting the Development of Cognitive Processes"
 tagss:
     - dreams
-imagePath: /assets/img/an_allegory.jpg
+imagePath: /assets/img/growth.jpg
 permalink: /research/{{ title | slug }}/
 ---
 Move on, this will just hurt you poor pea sized brain if you even think about

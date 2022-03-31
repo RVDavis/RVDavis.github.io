@@ -12,6 +12,18 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setDataDeepMerge(true);
 
     // CUSTOM FILTERS
+    eleventyConfig.addFilter("stripUrl", function(url, n) {
+        return url.split("/")[n];
+    })
+
+    eleventyConfig.addFilter("indexOf", function(array, el) {
+        return array.indexOf(el);
+    })
+
+    eleventyConfig.addFilter("getProperty", function(array, prop) {
+        return array.map(item => item.data[prop])
+    })
+
     eleventyConfig.addFilter("head", function(array, n) {
         if(!Array.isArray(array) || array.length === 0) {
             return [];

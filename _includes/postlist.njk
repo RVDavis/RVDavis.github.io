@@ -5,7 +5,7 @@
                 <a href="{{ entry.url | url }}">{{ entry.data.title }}</a>
             </h2>
             <div class="D(f) Jc(sb)">
-                <time class="Fs(i)" datetime="{{entry.data.date}}">{{ entry.data.date | readableDate }}</time>
+                <time class="Fs(i) C(lightslategray)" datetime="{{entry.data.date}}">{{ entry.data.date | readableDate }}</time>
                 <div>
                     {% for tag in entry.data.tags | filterTagList %}
                         <a href="/tags/{{ tag }}/">{{ tag }}</a> |
@@ -16,6 +16,8 @@
                 <p>{{ entry.data.content | truncate(250) | safe }}</p>
             {% endif %}
         </li>
+        {% if entry !== postsList | reverse | last %}
             <hr>
+        {% endif %}
     {% endfor %}
 </ul>

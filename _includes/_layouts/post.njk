@@ -1,36 +1,37 @@
 ---
 layout: _layouts/base.njk
 ---
-<div class="D(f) Jc(sb) Bdbs(da) Bdbw(t) Bdc(gray) Pb(0.5em) Mb(1.5em)">
-    <time class="Fs(i)" datetime="{{ date }}">{{ date | readableDate }}</time>
-    <div>
-        {% for tag in tags | filterTagList %}
-            <a href="/tags/{{ tag }}/">{{ tag }}</a> |
-        {% endfor %}
+<div class="Bdbs(s) Bdbw(t) Mb(1em)">
+    <div class="D(f) Jc(sb) Pb(0.5em) Mb(1.5em)">
+        <time class="Fs(i) C(lightslategray)" datetime="{{ date }}">{{ date | readableDate }}</time>
+        <div>
+            {% for tag in tags | filterTagList %}
+                <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+            {% endfor %}
+        </div>
     </div>
-</div>
 
-{{ content | safe }}
+    {{ content | safe }}
+</div>
 
 {% if collections.posts %}
     {% set nextPost = collections.posts | getNextCollectionItem(page) %}
     {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
     {% if nextPost or previousPost %}
-    <hr>
         <div class="D(f) Jc(sb) W(3em) M(a)">
             {% if previousPost %}
-                <h2>
+                <h2 class="M(0) P(0)">
                     <a href="{{ previousPost.url | url }}"><</a>
                 </h2>
             {% else %}
-                <h2><</h2>
+                <h2 class="M(0) P(0)"><</h2>
             {% endif %}
             {% if nextPost %}
-                <h2>
+                <h2 class="M(0) P(0)">
                     <a href="{{ nextPost.url | url }}">></a>
                 </h2>
             {% else %}
-                <h2>></h2>
+                <h2 class="M(0) P(0)">></h2>
             {% endif %}
         </div>
     {% endif %}

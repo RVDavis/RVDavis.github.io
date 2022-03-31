@@ -2,19 +2,24 @@
 layout: _layouts/base.njk
 ---
 {% for project in collections.research %}
-    <div class="D(f) Jc(sb) My(2em)">
-        <div class="Pend(1em)">
-            <h2 class="Mt(0)">{{ project.data.title }}</h2>
-            <p>{{ project.data.content | safe }}</p>
+    <div class="D(f)--md My(1em) Z(-1)">
+        <div class="Pos(r) Mend(1em) W(100%) Miw(2/5)--md Mih(300px) Bgp(c)
+        Bgz(cv) Bgz(a)--md" style="background-image: url({{
+            project.data.imagePath }})">
+            <h1 class="Mt(0) P(0.5em) Pos(a) T(0) Maw(3/5)--sm Maw(2/5)--md C(mainColour)">{{ project.data.title }}</h1>
         </div>
-        <div class="D(f) Fxd(c)">
-            <div class="D(ib) As(fe) H(2em)">
-                {% for tag in project.data.tagss %}
-                    <a href="/tags/{{ tag }}/">{{ tag }}</a> |
-                {% endfor %}
+        <div>
+            <div class="D(f) Fxd(c) Miw(3/5)">
+                <div class="As(fe)">
+                    {% for tag in project.data.tagss %}
+                        <a href="/tags/{{ tag }}/">{{ tag }}</a> |
+                    {% endfor %}
+                </div>
+                <p class="M(0)">{{ project.data.content | safe }}</p>
             </div>
-            <img class="W(350px)" src="{{ project.data.imagePath }}" alt="">
         </div>
     </div>
-    <hr>
+    {% if project !== collections.research | last %}
+        <hr>
+    {% endif %}
 {% endfor %}

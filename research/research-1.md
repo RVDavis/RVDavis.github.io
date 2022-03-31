@@ -1,10 +1,10 @@
 ---
 layout: _layouts/base.njk
-title: "A cool novel thing I'm looking at"
+title: "Bilingualism as a Fundamental Human Right"
 tagss:
     - cats
     - poo
-imagePath: /assets/img/an_allegory.jpg
+imagePath: /assets/img/flags.jpg
 permalink: /research/{{ title | slug }}/
 ---
 Here are some words to describe how cool the thing is that I'm working on. Oh
