@@ -16,18 +16,26 @@
 
     <header class="Px(10px) Px(1.5em)--sm Pt(10px) Pt(1.2em)--sm Pos(r) Bgc(mainColour) Pos(st) T(0)
         Bdbs(do) Z(1)">
-        <!-- Rachael animated name only appears when above medium window size
-        -->
-        <h1 id="logo" class="D(n) D(b)--md M(0)"><a href="{{ '/' | url }}"
-                class="C(black):visited">{{ metadata.title }}</a></h1>
-        <h1 class="D(b) D(n)--md Fz(3em)--sm M(0)"><a class="C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+
+        <!-- large name -->
+        <h1 id="logo--lg" class="D(n) D(b)--md Fz(4em) M(0)">
+            <a href="{{ '/' | url }}" class="C(black):visited">{{ metadata.title }}</a>
+        </h1>
+
+        <!-- medium name -->
+        <h1 id="logo--md" class="D(n) D(b)--sm D(n)--md Fz(3em)--sm M(0)">
+            <a class="C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
+        </h1>
+
+        <h1 class=" D(n)--sm M(0)">
+            <a class="C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
+        </h1>
 
         <div id="mini-bio" >
             <p class="M(0) Mb(1em) Fs(i) C(lightslategray)">{{ metadata.miniBio }}</p>
         </div>
 
         {% include "nav.njk" %}
-        {% include "dropdown.njk" %}
     </header>
 
     <main class="Maw(850px) M(a) Px(10px) Px(2em)--sm">

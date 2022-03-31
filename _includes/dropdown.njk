@@ -15,7 +15,7 @@
 		{% set navLocation = page.url | stripUrl(1) | title %}
 		{% set index = collections.navList | getProperty("title") |
 		indexOf(navLocation) %}
-		<p class="P(0) M(0) C({{ colours[index] }})">{{ page.url | stripUrl(1)
+		<p  class="P(0) M(0) C({{ colours[index] }})">{{ page.url | stripUrl(1)
 			| title}}</p>
 	</div>
 </nav>

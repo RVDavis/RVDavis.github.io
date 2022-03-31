@@ -3,10 +3,10 @@ layout: _layouts/base.njk
 ---
 {% for project in collections.research %}
     <div class="D(f)--md My(1em) Z(-1)">
-        <div class="Pos(r) Mend(1em) W(100%) Miw(2/5)--md Mih(300px) Bgp(c)
+        <div class="Pos(r) Mend(1em) W(100%) Maw(2/5)--md H(300px) Bgp(c)
         Bgz(cv) Bgz(a)--md" style="background-image: url({{
             project.data.imagePath }})">
-            <h1 class="Mt(0) P(0.5em) Pos(a) T(0) Maw(3/5)--sm Maw(2/5)--md C(mainColour)">{{ project.data.title }}</h1>
+            <h1 class="Mt(0) P(0.5em) Pos(a) T(0) Maw(3/5)--sm C(mainColour)">{{ project.data.title }}</h1>
         </div>
         <div>
             <div class="D(f) Fxd(c) Miw(3/5)">
