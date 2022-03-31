@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setDataDeepMerge(true);
 
     // CUSTOM FILTERS
-    eleventyConfig.addFilter("stripUrl", function(url, n) {
+    eleventyConfig.addFilter("stripUrl", function(url, n = 1) {
         return url.split("/")[n];
     })
 

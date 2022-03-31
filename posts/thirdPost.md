@@ -6,7 +6,7 @@ tags:
     - poo
 date: 2021-08-12
 layout: _layouts/post.njk
-permalink: /posts/{{ title | slug }}/
+permalink: /blog/posts/{{ title | slug }}/
 ---
 This is my third post and it is easily the most exciting one to date - just look
 at all the words! I'm going to write a few more things just to see how it looks

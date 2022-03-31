@@ -1,13 +1,22 @@
 <nav class="My(0.5em) D(n) D(b)--sm">
     {% set colours = ["blue", "red", "green", "orange", "purple", "crimson"] %}
-    {% for page in collections.navList %}
+    {% for navPage in collections.navList %}
         {% set colour = colours[loop.index0] %}
-        {% if page == collections.navList | last %}
-            <a href="{{ page.url }}" class="C({{ colour }}) C({{ colour
-                }}):visited">{{ page.data.title }}</a>
+        {% set pageUrl = page.url | stripUrl %}
+        {% set navPageUrl = navPage.url | stripUrl %}
+        {% if navPage == collections.navList | last %}
+            <a href="{{ navPage.url }}" class="{% if pageUrl == navPageUrl
+            %} BdB Bd(0):hover
+            {% endif %} C({{ colour }}) C({{ colour }}):visited">
+                {{ navPage.data.title }}
+            </a>
         {% else %}
-            <a href="{{ page.url }}" class="C({{ colour }}) C({{ colour
-                }}):visited">{{ page.data.title }}</a> |
+            <a href="{{ navPage.url }}" class="{% if pageUrl == navPageUrl %}
+                BdB Bd(0):hover
+            {% endif %} C({{ colour }}) C({{ colour
+            }}):visited">
+                {{ navPage.data.title }}
+            </a> |
         {% endif %}
     {% endfor %}
 </nav>
