@@ -5,13 +5,13 @@
         {% set pageUrl = page.url | stripUrl %}
         {% set navPageUrl = navPage.url | stripUrl %}
         {% if navPage == collections.navList | last %}
-            <a href="{{ navPage.url }}" class="{% if pageUrl == navPageUrl
+            <a href="{{ navPage.url | url }}" class="{% if pageUrl == navPageUrl
             %} BdB Bd(0):hover
             {% endif %} C({{ colour }}) C({{ colour }}):visited">
                 {{ navPage.data.title }}
             </a>
         {% else %}
-            <a href="{{ navPage.url }}" class="{% if pageUrl == navPageUrl %}
+            <a href="{{ navPage.url | url }}" class="{% if pageUrl == navPageUrl %}
                 BdB Bd(0):hover
             {% endif %} C({{ colour }}) C({{ colour
             }}):visited">

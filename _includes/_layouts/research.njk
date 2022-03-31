@@ -5,7 +5,7 @@ layout: _layouts/base.njk
     <div class="D(f)--md My(1em) Z(-1) H(300px)--md">
         <div class="Pos(r) Mend(1em)--md Miw(2/5)--md H(300px) Bgp(c)
         Bgz(cv) Bgz(a)--md" style="background-image: url({{
-            project.data.imagePath }})">
+            project.data.imagePath | url }})">
             <h1 class="Mt(0) P(0.5em) Pos(a) T(0) Maw(3/5)--sm C(mainColour)">{{ project.data.title }}</h1>
         </div>
         <div>
