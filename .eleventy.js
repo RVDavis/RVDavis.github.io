@@ -20,6 +20,14 @@ module.exports = function(eleventyConfig) {
         return array.indexOf(el);
     })
 
+    eleventyConfig.addFilter("includes", function(array, item) {
+        if (array) {
+            return array.includes(item)
+        } else {
+            return false
+        }
+    })
+
     eleventyConfig.addFilter("getProperty", function(array, prop) {
         return array.map(item => item.data[prop])
     })

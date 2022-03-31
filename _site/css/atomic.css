@@ -73,6 +73,12 @@
 .C\(red\)\:visited:visited {
   color: red;
 }
+.C\(lightslategray\)\:h:hover {
+  color: lightslategray;
+}
+.D\(b\) {
+  display: block;
+}
 .D\(f\) {
   display: flex;
 }
@@ -84,6 +90,9 @@
 }
 .D\(n\) {
   display: none;
+}
+.drop:hover .drop\:h_D\(b\) {
+  display: block;
 }
 .As\(fe\) {
   align-self: flex-end;
@@ -146,6 +155,9 @@
 .Mb\(40px\) {
   margin-bottom: 40px;
 }
+.Mstart\(1em\) {
+  margin-left: 1em;
+}
 .Mstart\(30px\) {
   margin-left: 30px;
 }
@@ -185,6 +197,9 @@
 .P\(0\.5em\) {
   padding: 0.5em;
 }
+.P\(2px\) {
+  padding: 2px;
+}
 .Px\(1\.5em\) {
   padding-left: 1.5em;
   padding-right: 1.5em;
@@ -222,6 +237,9 @@
 }
 .Z\(1\) {
   z-index: 1;
+}
+.Z\(2\) {
+  z-index: 2;
 }
 @media(min-width:500px) {
   .D\(b\)--sm {
