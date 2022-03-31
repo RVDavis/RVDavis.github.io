@@ -1,0 +1,51 @@
+@font-face {
+	font-family: OPTIDanley-Bold;
+	src: url(/assets/OPTIDanley-Bold.otf)
+}
+
+/* * { */
+/* 	padding: 0; */
+/* 	margin: 0; */
+/*  } */
+
+html {
+	/* font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */ 
+	font-family: Jost, Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 400;
+	font-size: 17px;
+}
+
+h1, h2, h3 {
+	font-family: OPTIDanley-Bold;
+}
+
+hr {
+	height: 1px;
+	border-width: 0;
+	color: black;
+	background-color: black;
+}
+
+a:link, a:visited {
+	color: #f01c00;
+	text-decoration: none; 
+}
+a:hover {
+	/* color: silver; */
+	text-decoration: underline;
+	color: black;
+	background: yellow;
+}
+
+img {
+	width: 100%;
+}
+
+#logo--lg, #logo--md {
+	/* font-size: 4em; */
+	transition: 0.5s;
+}
+
+#mini-bio {
+	transition: opacity 0.3s;
+}
