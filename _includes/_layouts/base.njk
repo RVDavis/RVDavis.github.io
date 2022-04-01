@@ -9,7 +9,7 @@
     rel="stylesheet">
     <link rel="stylesheet" href="{{ '/css/base.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/atomic.css' | url }}">
-    <script src="{{ 'assets/js/scroll.js' | url }}"></script>
+    <script src="{{ '/assets/js/scroll.js' | url }}"></script>
     <title>{% if title %}{{ title }} {% else %}{{ metadata.title }} {% endif %}</title>
 </head>
 <body class="Bgc(mainColour)">
@@ -19,16 +19,17 @@
 
         <!-- large name -->
         <h1 id="logo--lg" class="D(n) D(b)--md Fz(4em) M(0)">
-            <a href="{{ '/' | url }}" class="C(black):visited">{{ metadata.title }}</a>
+            <a href="{{ '/' | url }}" class="C(black):link C(black):visited">{{ metadata.title }}</a>
         </h1>
 
         <!-- medium name -->
         <h1 id="logo--md" class="D(n) D(b)--sm D(n)--md Fz(3em)--sm M(0)">
-            <a class="C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
+            <a class="C(black):link C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
         </h1>
 
-        <h1 class=" D(n)--sm M(0)">
-            <a class="C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
+        <!-- small name -->
+        <h1 id="logo--sm" class="D(n)--sm M(0)">
+            <a class="C(black):link C(black):visited" href="{{ '/' | url }}">{{ metadata.title }}</a>
         </h1>
 
         <div id="mini-bio" >

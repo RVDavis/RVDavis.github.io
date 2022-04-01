@@ -41,8 +41,11 @@ img {
 	width: 100%;
 }
 
-#logo--lg, #logo--md {
-	/* font-size: 4em; */
+ul {
+	padding-left: 1.5em;
+}
+
+#logo--lg, #logo--md, #logo--sm {
 	transition: 0.5s;
 }
 
