@@ -6,7 +6,8 @@
 		<div class="D(n) drop:h_D(b) Z(2)">
 			{% for page in collections.navList %}
 				{% set colour = colours[loop.index0] %}
-				<a href="{{ page.url | url }}" class="D(b) Mstart(1em) P(2px) C({{ colour }}) C({{ colour
+				<a href="{{ page.url | url }}" class="D(b) Mstart(1em) P(2px)
+				C({{ colour }}):link C({{ colour
 				}}):visited">{{ page.data.title }}</a>
 			{% endfor %}
 		</div>
