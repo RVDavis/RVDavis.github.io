@@ -58,6 +58,24 @@
 .C\(red\) {
   color: red;
 }
+.C\(black\)\:link:link {
+  color: black;
+}
+.C\(blue\)\:link:link {
+  color: blue;
+}
+.C\(green\)\:link:link {
+  color: green;
+}
+.C\(orange\)\:link:link {
+  color: orange;
+}
+.C\(purple\)\:link:link {
+  color: purple;
+}
+.C\(red\)\:link:link {
+  color: red;
+}
 .C\(black\)\:visited:visited {
   color: black;
 }
@@ -132,6 +150,8 @@
 }
 .My\(0\.5em\) {
   margin-top: 0.5em;
+}
+.My\(0\.5em\), .Mb\(0\.5em\) {
   margin-bottom: 0.5em;
 }
 .My\(1em\), .Mt\(1em\) {
@@ -143,7 +163,7 @@
 .My\(2em\), .Mt\(2em\) {
   margin-top: 2em;
 }
-.My\(2em\) {
+.My\(2em\), .Mb\(2em\) {
   margin-bottom: 2em;
 }
 .Mt\(0\) {
@@ -248,7 +268,7 @@
   border-left-width: 0;
   border-style: solid;
 }
-@media(min-width:500px) {
+@media(min-width:600px) {
   .D\(b\)--sm {
     display: block;
   }
@@ -306,5 +326,8 @@
   }
   .Ov\(s\)--md {
     overflow: scroll;
+  }
+  .Ovx\(h\)--md {
+    overflow-x: hidden;
   }
 }
