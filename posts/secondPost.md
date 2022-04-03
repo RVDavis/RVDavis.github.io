@@ -4,8 +4,10 @@ description: This is my second post about the sun
 layout: _layouts/post.njk
 date: 2021-08-03
 tags: 
-    - poo
+    - clouds
     - cats
 permalink: /blog/posts/{{ title | slug }}/
 ---
-Blah blah blah the sun is shining and I am freeeeeeeee
+Lorem est minus vel quidem pariatur. Dolorum placeat voluptate suscipit
+architecto illum, sequi voluptate nesciunt. Inventore eos dolore tempore
+assumenda alias Voluptates tempora rerum ullam velit facere sit vel? Saepe

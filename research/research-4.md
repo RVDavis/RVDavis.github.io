@@ -8,6 +8,6 @@ tagss:
 imagePath: /assets/img/identity.jpg
 permalink: /research/{{ title | slug }}/
 ---
-
-Dank nugs research laboratory brings you only the greatest research; cohorts of
-\> 100000000 data for days bitches.
+Dolor quas laudantium commodi aliquid voluptate? Sequi iure odit non sit velit.
+Architecto a explicabo labore aut architecto Maxime fugiat eaque quibusdam
+numquam saepe. Voluptas odit magnam autem obcaecati molestiae.

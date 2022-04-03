@@ -2,15 +2,17 @@
 title: Third post
 description: This is my third post about absolutely nothing
 tags: 
-    - nothing
-    - poo
+    - science
+    - autism
 date: 2021-08-12
 layout: _layouts/post.njk
 permalink: /blog/posts/{{ title | slug }}/
 ---
-This is my third post and it is easily the most exciting one to date - just look
-at all the words! I'm going to write a few more things just to see how it looks
-on the home page. There are clouds in the sky and a war in eastern europe. My
-two cats are sleeping on the sofa; one under it one nestled in a blanket.
+Lorem doloremque labore obcaecati vel esse. Dicta nemo totam nostrum dolores
+eligendi Reprehenderit reiciendis porro consequuntur numquam iure animi.
+Corporis sit accusamus voluptas rerum voluptates Quasi doloribus impedit
+molestiae ducimus
 
-![an allegory](/assets/img/an_allegory.jpg)
+Amet ab nostrum nemo nisi tenetur Ipsum veritatis laudantium eveniet non ipsum.
+Doloremque dicta excepturi non expedita nulla Dolores distinctio magnam neque
+unde nulla. Labore corporis facilis vitae ab cupiditate.

@@ -6,6 +6,7 @@ tagss:
 imagePath: /assets/img/education.jpg
 permalink: /research/{{ title | slug }}/
 ---
-I'm fucking winner y'all. This is probably too over your head but fuck me I'm
-flying, gonna shit on you from above. Come back when you've taken some IQ
-pills.
+Consectetur sapiente modi eligendi dolorum recusandae. Molestias tempora
+deleniti eveniet fuga odio, dignissimos molestias. Quis eligendi libero laborum
+nemo qui voluptates. Possimus iusto totam perferendis magni quidem Ex ducimus
+quidem
