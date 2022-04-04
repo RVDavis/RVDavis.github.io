@@ -9,7 +9,6 @@ year: 2021
 journal: OSF Preprints
 publicationPath: /assets/publications/paper-01.pdf
 layout: _layouts/publication.njk
-permalink: /publications/{{ title | slug }}/
 ---
 Bilingualism is a valuable tool that enriches and facilitates cultural, social
 and lived experiences for autistic and non-autistic people alike. Research
