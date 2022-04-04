@@ -1,6 +1,5 @@
 ---
 title: Third post
-description: This is my third post about absolutely nothing
 tags: 
     - science
     - autism

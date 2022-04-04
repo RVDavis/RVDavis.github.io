@@ -1,6 +1,5 @@
 ---
 title: First post
-description: This is my fist post about cats and autism
 layout: _layouts/post.njk
 date: 2021-08-01
 tags: 

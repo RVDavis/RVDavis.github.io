@@ -1,6 +1,5 @@
 ---
 title: Fourth post
-description: This is my fourth post about clouds and dreams
 date: 2021-08-20
 tags:
     - cats

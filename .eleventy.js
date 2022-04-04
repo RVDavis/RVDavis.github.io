@@ -8,6 +8,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
     // copy css to _site
     eleventyConfig.addPassthroughCopy("css");
+    // copy CNAME to _site
+    eleventyConfig.addPassthroughCopy("CNAME");
 
     eleventyConfig.setDataDeepMerge(true);
 
