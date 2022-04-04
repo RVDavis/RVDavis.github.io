@@ -15,7 +15,10 @@ layout: _layouts/base.njk
 {% set maxPosts = collections.posts.length | min(metadata.postListLength) %}
 <h1 class="D(ib) Bdbs(da) Bdbw(t)">Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} posts{% endif %}</h1>
 
-{% set postsList = collections.posts | head(metadata.postListLength) %}
+{% set negNum = metadata.postListLength | posToNeg %}
+{{ negNum | log }}
+{% set postsList = collections.posts | last(negNum) %}
+{{ collections.posts | log }}
 
 {% include "postlist.njk" %}
 

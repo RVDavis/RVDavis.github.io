@@ -32,14 +32,17 @@ module.exports = function(eleventyConfig) {
         return array.map(item => item.data[prop])
     })
 
-    eleventyConfig.addFilter("head", function(array, n) {
+    eleventyConfig.addFilter("last", function(array, n) {
         if(!Array.isArray(array) || array.length === 0) {
             return [];
+        } else if (array.length < Math.abs(n)) {
+            return array;
         }
-        if(n < 0) {
-            return array.slice(n);
-        }
-        return array.slice(0, n);
+        return array.slice(n);
+    })
+
+    eleventyConfig.addFilter("posToNeg", function(n) {
+        return -n
     })
 
     eleventyConfig.addFilter("min", function(...numbers) {
