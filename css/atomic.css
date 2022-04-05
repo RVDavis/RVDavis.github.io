@@ -237,8 +237,11 @@
 .Pb\(0\.5em\) {
   padding-bottom: 0.5em;
 }
-.Pb\(2rem\) {
-  padding-bottom: 2rem;
+.Pb\(1em\) {
+  padding-bottom: 1em;
+}
+.Pb\(1rem\) {
+  padding-bottom: 1rem;
 }
 .Pos\(a\) {
   position: absolute;

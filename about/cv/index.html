@@ -137,12 +137,14 @@
                 Bdbs(da) Bdbw(t) D(ib)
             ">CV</h1>
         
-        <div class="Bdbs(da) Bdbw(t) Pb(2rem) Bdbc(gray)">
+        <div class="Bdbs(da) Bdbw(t) Pb(1rem) Bdbc(gray)">
     <a class="Bg(n):hover"href="/assets/CV.pdf" download="cv.pdf">
         <button>Download</button>
     </a>
 </div>
 
+    <ul id="headings" class="Bdbs(da) Bdbw(t) Pb(1em) Bdbc(gray)">
+    </ul>
 <h2>EDUCATION</h2>
 <h3>2013-2017</h3>
 <p><strong>PhD Psychology</strong>, Centre for Brain and Cognitive Sciences, Birkbeck,
@@ -437,6 +439,25 @@ inclusion for autistic people living in Scotland.</p>
 <li>I am trained in delivery of the Bayley scales of Infant Development (2017)</li>
 </ul>
 
+
+<script>
+    let headingContainer = document.getElementById("headings")
+    let headings = document.getElementsByTagName("h2");
+
+    Array.from(headings).forEach(heading => {
+        heading.id = heading.innerText;
+        heading.style = "scroll-margin: 120px"
+        let item = document.createElement("li");
+        let link = document.createElement("a");
+
+        link.innerText = heading.id;
+        link.href = `#${heading.id}`;
+
+        item.appendChild(link);
+        headingContainer.appendChild(item);
+    })
+    console.log(headingContainer)
+</script>
 
     </main>
 
