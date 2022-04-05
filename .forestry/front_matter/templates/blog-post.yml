@@ -28,3 +28,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  hidden: true
+  default: "/blog/posts/{{ title | slug }}/"
