@@ -4,10 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: _layouts/post.njk
 - type: datetime
   name: date
   label: date
