@@ -21,7 +21,7 @@ fields:
 - type: file
   name: imagePath
   label: Image
-  description: 'WARNING: You need to add an image!'
+  description: 'CAUTION: Make sure you add an image'
 - type: text
   name: permalink
   label: permalink
