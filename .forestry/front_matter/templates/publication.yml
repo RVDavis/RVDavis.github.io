@@ -1,0 +1,22 @@
+---
+label: Publication
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: list
+  name: authors
+  label: authors
+- type: number
+  name: year
+  label: year
+- type: text
+  name: journal
+  label: journal
+- type: file
+  name: publicationPath
+  label: publicationPath
+- type: text
+  name: layout
+  label: layout
