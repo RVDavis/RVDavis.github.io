@@ -1,8 +1,8 @@
 ---
 title: About
 layout: _layouts/about.njk
----
 
+---
 I focus on children’s development, my research has two key strands. The first
 uses longitudinal methods to understand early differences in cognitive
 development, this means ... and the effects on developmental outcomes such as

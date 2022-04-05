@@ -12,3 +12,5 @@ fields:
   label: layout
   hidden: true
   default: _layouts/about.njk
+pages:
+- about.md
