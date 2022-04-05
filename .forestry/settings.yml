@@ -7,15 +7,12 @@ sections:
 - type: document
   path: _data/metadata.json
   label: Site data
-  match: "**/*"
 - type: document
   path: links.md
   label: Links
-  match: "**/*"
 - type: document
   path: about.md
   label: About me
-  match: "**/*"
 - type: directory
   path: publications
   label: Publications
