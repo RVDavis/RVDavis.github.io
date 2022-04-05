@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: research.md
+  label: Research blurb
+  match: "**/*"
+- type: document
   path: _data/metadata.json
   label: Site data
 - type: document
