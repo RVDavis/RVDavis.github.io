@@ -1,0 +1,19 @@
+---
+label: Research project
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tagss
+  label: tagss
+- type: file
+  name: imagePath
+  label: imagePath
+- type: text
+  name: permalink
+  label: permalink
