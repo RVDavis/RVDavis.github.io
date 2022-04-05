@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: publications
+  label: Publications
+  create: all
+  match: "**/*"
+  exclude: "*.json"
+- type: directory
   path: research
   label: Research
   create: all
