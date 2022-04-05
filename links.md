@@ -1,7 +1,5 @@
 ---
 title: Links
-nav:
-    order: 5
 layout: _layouts/links.njk
 permalink: /links/
 links:

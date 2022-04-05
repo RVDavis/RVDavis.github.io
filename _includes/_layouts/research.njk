@@ -1,6 +1,14 @@
 ---
 layout: _layouts/base.njk
 ---
+<div>
+
+    {% if content %}
+        {{ content | safe }}
+
+        <hr>
+    {% endif %}
+
 {% for project in collections.research %}
     <div class="D(f)--md My(1em) Z(-1) H(300px)--md">
         <div class="Pos(r) Mend(1em)--md Miw(2/5)--md H(300px) Bgp(c)
@@ -23,3 +31,4 @@ layout: _layouts/base.njk
         </div>
     </div>
 {% endfor %}
+</div>

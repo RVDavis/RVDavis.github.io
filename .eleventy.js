@@ -1,4 +1,5 @@
-const { DateTime } = require("luxon")
+const { DateTime } = require("luxon");
+let metadata = require("./_data/metadata.json");
 
 module.exports = function(eleventyConfig) {
     //add css to watch list
@@ -82,7 +83,8 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection("navList", function(collection) {
         return collection.getAll()
-            .filter(item => item.data.nav)
-            .sort((a, b) => a.data.nav.order - b.data.nav.order);
+            .filter(item => item.data.title)
+            .filter(item => metadata.navOrder.includes(item.data.title.toLowerCase()))
+            .sort((a, b) => metadata.navOrder.indexOf(a.data.title.toLowerCase()) - metadata.navOrder.indexOf(b.data.title.toLowerCase()));
     })
 }

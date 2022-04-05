@@ -4,5 +4,6 @@
   "twitter": "https://www.twitter.com/rachaelvdavis",
   "email": "rdavis@qmu.ac.uk",
   "miniBio": "Developmental psychologist focusing on autism, cognition & education",
-  "postListLength": 3
+  "postListLength": 3,
+  "navOrder": ["about", "research", "publications", "blog", "links"]
 }
