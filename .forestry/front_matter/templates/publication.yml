@@ -4,19 +4,32 @@ hide_body: false
 fields:
 - type: textarea
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
+    wysiwyg: false
 - type: list
   name: authors
-  label: authors
+  label: Authors
+  config:
+    use_select: false
+    min: 1
 - type: number
   name: year
-  label: year
+  label: Year
+  config:
+    required: true
+  default: 
 - type: text
   name: journal
-  label: journal
+  label: Journal
+  description: Name of the journal
 - type: file
   name: publicationPath
-  label: publicationPath
+  label: Document
+  description: Preferably PDF format
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: _layouts/publication.njk
