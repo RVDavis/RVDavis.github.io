@@ -15,16 +15,25 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  default: "/links/"
+  hidden: true
 - type: field_group_list
   name: links
-  label: links
+  label: Links
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: url
     label: url
+    config:
+      required: true
   - type: text
     name: description
-    label: description
+    label: Description
+    description: A brief description of what the link is about
+    config:
+      required: true
