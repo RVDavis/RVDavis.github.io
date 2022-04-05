@@ -1,4 +1,18 @@
 ---
 label: Research blurb
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  hidden: true
+  default: Research
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: _layouts/research.njk
