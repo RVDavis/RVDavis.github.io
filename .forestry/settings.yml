@@ -5,25 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: research.md
-  label: Research blurb
-- type: document
-  path: _data/metadata.json
-  label: Site data
-- type: document
-  path: links.md
-  label: Links
-- type: document
   path: about.md
   label: About me
-- type: directory
-  path: publications
-  label: Publications
-  create: all
-  match: "**/*"
-  exclude: "*.json"
-  templates:
-  - publication
+- type: document
+  path: research.md
+  label: Research blurb
 - type: directory
   path: research
   label: Research
@@ -33,6 +19,14 @@ sections:
   templates:
   - research-project
 - type: directory
+  path: publications
+  label: Publications
+  create: all
+  match: "**/*"
+  exclude: "*.json"
+  templates:
+  - publication
+- type: directory
   path: posts
   label: Posts
   create: all
@@ -40,6 +34,12 @@ sections:
   exclude: "*.json"
   templates:
   - blog-post
+- type: document
+  path: links.md
+  label: Links
+- type: document
+  path: _data/metadata.json
+  label: Site data
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
