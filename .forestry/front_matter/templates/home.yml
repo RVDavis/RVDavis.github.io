@@ -7,3 +7,5 @@ fields:
   label: layout
   hidden: true
   default: _layouts/home.njk
+pages:
+- index.md
