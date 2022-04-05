@@ -37,3 +37,5 @@ fields:
     description: A brief description of what the link is about
     config:
       required: true
+pages:
+- links.md
