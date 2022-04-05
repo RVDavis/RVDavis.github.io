@@ -16,3 +16,5 @@ fields:
   label: layout
   hidden: true
   default: _layouts/research.njk
+pages:
+- research.md
