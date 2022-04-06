@@ -1,10 +1,11 @@
 ---
 title: "What Do New Findings About Social Interaction in Autistic Adults Mean for Neurodevelopmental Research?" 
 authors:
-    - Rachael Davis
-    - Catherine J Crompton
+    - Davis
+    - Crompton
 year: 2021
 journal: Perspectives on Psychological Science
+journalURL: https://www.google.com
 publicationPath: /assets/publications/paper-02.pdf
 layout: _layouts/publication.njk
 ---

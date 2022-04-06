@@ -2,11 +2,12 @@
 title: "Autistic People's Access to Bilingualism and Additional Language
 Learning: Identifying the Barriers and Facilitators for Equal Opportunites."
 authors:
-    - Rachael Davis
-    - Sue Fletcher-Watson
-    - Berengere Digard
+    - Davis
+    - Fletcher-Watson
+    - Digard
 year: 2021
 journal: OSF Preprints
+journalURL: https://www.google.com
 publicationPath: /assets/publications/paper-01.pdf
 layout: _layouts/publication.njk
 ---
