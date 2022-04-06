@@ -1,7 +1,8 @@
 ---
 title: CV
-permalink: /about/cv/
+permalink: "/about/cv/"
 layout: _layouts/cv.njk
+
 ---
 ## EDUCATION
 

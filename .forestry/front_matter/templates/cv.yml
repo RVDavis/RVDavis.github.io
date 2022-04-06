@@ -17,3 +17,5 @@ fields:
   label: layout
   hidden: true
   default: _layouts/cv.njk
+pages:
+- cv.md
