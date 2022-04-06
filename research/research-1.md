@@ -8,7 +8,7 @@ imagePath: "/assets/img/flags.jpg"
 permalink: "/research/{{ title | slug }}/"
 
 ---
-While all children should have access to language learning - and the related opportunities that come with this - as a fundamental human right, this is currently not the case for all autistic children.
+While all children should have access to language learning - and the related opportunities that come with this - as a fundamental human right - this is currently not the case for all autistic children.
 
 We know that parents & professionals are often concerned that a bilingual environment could be harmful for autistic children - despite this idea not being built on evidence.
 
