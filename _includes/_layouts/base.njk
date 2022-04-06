@@ -43,10 +43,11 @@
 
     <main class="Maw(850px) M(a) Px(10px) Px(2em)--sm">
         <!-- remove dashed bottom border if a publication -->
-        {% if title %}
-            <h1 class="{% if tags | includes("publications") == false %}
-                Bdbs(da) Bdbw(t) D(ib)
-            {% endif %}">{% if title == "About"%}About Me{% else %}{{ title }}{% endif %}</h1>
+        {% if title and tags | includes("publications") == false %}
+            <h1 class="Bdbs(da) Bdbw(t) D(ib)">
+            {% if title == "About"%}About Me{% else %}{{ title }}{% endif %}</h1>
+        {% else %}
+            <h1 class="Fz(1.5em) Fz(2em)--sm">{{ title }}</h1>
         {% endif %}
         {{ content | safe }}
     </main>

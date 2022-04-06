@@ -133,6 +133,9 @@
 .Fl\(start\) {
   float: left;
 }
+.Fz\(1\.5em\) {
+  font-size: 1.5em;
+}
 .Fz\(4em\) {
   font-size: 4em;
 }
@@ -277,6 +280,9 @@
   }
   .D\(n\)--sm {
     display: none;
+  }
+  .Fz\(2em\)--sm {
+    font-size: 2em;
   }
   .Fz\(3em\)--sm {
     font-size: 3em;
