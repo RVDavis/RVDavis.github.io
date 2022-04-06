@@ -24,6 +24,12 @@ fields:
   name: journal
   label: Journal
   description: Name of the journal
+- name: journalURL
+  type: text
+  config:
+    required: true
+  label: Journal URL
+  description: Make sure to include https:// at the beginning or URL
 - type: file
   name: publicationPath
   label: Document
