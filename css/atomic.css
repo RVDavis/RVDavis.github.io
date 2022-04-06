@@ -297,9 +297,6 @@
   }
 }
 @media(min-width:900px) {
-  .Bgz\(a\)--md {
-    background-size: auto;
-  }
   .D\(b\)--md {
     display: block;
   }
@@ -312,25 +309,10 @@
   .Fl\(n\)--md {
     float: none;
   }
-  .H\(276px\)--md {
-    height: 276px;
-  }
-  .H\(300px\)--md {
-    height: 300px;
-  }
-  .Mend\(1em\)--md {
-    margin-right: 1em;
+  .Fz\(3em\)--md {
+    font-size: 3em;
   }
   .Maw\(250px\)--md {
     max-width: 250px;
-  }
-  .Miw\(2\/5\)--md {
-    min-width: 40%;
-  }
-  .Ov\(s\)--md {
-    overflow: scroll;
-  }
-  .Ovx\(h\)--md {
-    overflow-x: hidden;
   }
 }
