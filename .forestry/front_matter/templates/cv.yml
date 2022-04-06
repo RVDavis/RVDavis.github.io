@@ -11,7 +11,7 @@ fields:
   name: permalink
   label: permalink
   hidden: true
-  default: "/about/cv"
+  default: "/about/cv/"
 - type: text
   name: layout
   label: layout
