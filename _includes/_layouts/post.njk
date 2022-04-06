@@ -7,7 +7,10 @@ layout: _layouts/base.njk
         <div>
             {% for tag in tags | filterTagList %}
                 {% set tagUrl = ["/tags/", tag, "/"] | join %}
-                <a href="{{ tagUrl | url }}">{{ tag }}</a> |
+                <a href="{{ tagUrl | url }}">{{ tag }}</a>
+                {% if tag !== tags | filterTagList | reverse | first %}
+                    | 
+                {% endif %}
             {% endfor %}
         </div>
     </div>

@@ -9,7 +9,10 @@
                 <div>
                     {% for tag in entry.data.tags | filterTagList %}
                         {% set tagUrl = ["/tags/", tag, "/"] | join %}
-                        <a href="{{ tagUrl | url }}">{{ tag }}</a> |
+                        <a href="{{ tagUrl | url }}">{{ tag }}</a> 
+                        {% if tag !== entry.data.tags | reverse | first %}
+                             | 
+                        {% endif %}
                     {% endfor %}
                 </div>
             </div>
@@ -17,7 +20,7 @@
                 <p>{{ entry.data.content | truncate(250) | safe }}</p>
             {% endif %}
         </li>
-        {% if entry !== postsList | reverse | last %}
+        {% if entry !== postsList | first  %}
             <hr>
         {% endif %}
     {% endfor %}

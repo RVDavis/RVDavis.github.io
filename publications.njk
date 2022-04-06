@@ -11,7 +11,8 @@ layout: _layouts/base.njk
                                         <h3><a href="{{ paper.url | url }}">{{ paper.data.title }}</a></h3>
                                         <p class="Fs(i)">{{ paper.data.authors | join(", ") }}</p>
                                 </li>
-                                {% if paper !== collections.publications | last %}
+                                {% if paper !== collections.publications |
+                                reverse | first %}
                                         <hr>
                                 {% endif %}
                         {% endif %}
