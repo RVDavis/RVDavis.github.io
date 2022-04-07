@@ -3,9 +3,9 @@ layout: _layouts/publication.njk
 title: Gaze Behaviour to Lateral Face Stimuli in Infants Who do and do not Receive
   an ASD Diagnosis
 authors:
+- Donati
 - Forrester
 - Davis
-- Donati
 year: 2020
 journal: Scientific Reports
 journalURL: https://www.nature.com/articles/s41598-020-69898-9
