@@ -8,7 +8,7 @@ authors:
 year: 2021
 journal: OSF Preprints
 journalURL: https://www.google.com
-publicationPath: "/assets/publications/paper-01.pdf"
+publicationPath: ''
 layout: _layouts/publication.njk
 
 ---
