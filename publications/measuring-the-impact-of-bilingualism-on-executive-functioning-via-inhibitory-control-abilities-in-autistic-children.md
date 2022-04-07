@@ -3,12 +3,12 @@ layout: _layouts/publication.njk
 title: Measuring the Impact of Bilingualism on Executive Functioning Via Inhibitory
   Control Abilities in Autistic Children
 authors:
+- Montgomery
+- Chondrogianni
+- Fletcher-Watson
+- Rabagliati
 - Davis
 - Sorace
-- Rabagliati
-- Fletcher-Watson
-- Chondrogianni
-- Montgomery
 year: 2021
 journal: Journal of Autism and Developmental Disorders
 journalURL: https://link.springer.com/article/10.1007/s10803-021-05234-y
