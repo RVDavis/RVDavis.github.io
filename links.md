@@ -8,8 +8,8 @@ links:
   description: Science public engagement at it's best  - go and see them at an event
     near you!
 - title: Dr Gavin Buckingham - blog
-  url: gavinbuckingham.wordpress.com
-  description: a great blog about the realities of being a researcher and lectrurer
+  url: https://gavinbuckingham.wordpress.com
+  description: A great blog about the realities of being a researcher and lectrurer
     in the UK
 
 ---
