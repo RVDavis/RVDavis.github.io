@@ -1,13 +1,13 @@
 ---
 layout: _layouts/publication.njk
-title: 'Being autistic and bilingual: A thematic analysis of the experiences of autistic
-  bilingual adults living in the UK'
+title: 'Being Autistic and Bilingual: a Thematic Analysis of the Experiences of Autistic
+  Bilingual Adults Living in the UK'
 authors:
-- Fletcher-Watson
-- Stanfield
-- Sorace
-- Davis
 - Digard
+- Davis
+- Sorace
+- Stanfield
+- Fletcher-Watson
 year: 2022
 journal: Under Review
 journalURL: https://osf.io/gtxj5/
