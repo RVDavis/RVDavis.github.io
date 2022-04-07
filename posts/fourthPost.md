@@ -1,7 +1,9 @@
 ---
-title: 'New paper! - preterm infants & lateralisation '
+title: 'New paper - preterm infants & lateralisation '
 date: 2021-03-15T00:00:00Z
 tags:
+- infants
+- preterm
 - development
 - cognition
 layout: _layouts/post.njk
