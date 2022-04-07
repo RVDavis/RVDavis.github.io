@@ -15,6 +15,17 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setDataDeepMerge(true);
 
     // CUSTOM FILTERS
+    eleventyConfig.addFilter("sortBy", function(collection, data) {
+        collection.forEach(item => {
+            if (!item[data]) return;
+            if (item[data] && typeof item[data] !== "string" ||
+                item[data] && typeof item[data] !== "number") {
+                return;
+            }
+        })
+        return collection.sort((a,b) => a.data.year - b.data.year);
+    })
+    
     eleventyConfig.addFilter("stripUrl", function(url, n = 1) {
         return url.split("/")[n];
     })
@@ -69,7 +80,7 @@ module.exports = function(eleventyConfig) {
             if (element.data.year) yearSet.add(element.data.year)
         })
 
-        return yearSet;
+        return Array.from(yearSet).sort();
     })
 
     eleventyConfig.addCollection("tagList", function(collection) {
