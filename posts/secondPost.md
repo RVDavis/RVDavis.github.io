@@ -4,7 +4,6 @@ layout: _layouts/post.njk
 date: 2022-02-10T00:00:00Z
 tags:
 - neurodiversity
-- language-learning
 - bilingualism
 permalink: "/blog/posts/{{ title | slug }}/"
 
