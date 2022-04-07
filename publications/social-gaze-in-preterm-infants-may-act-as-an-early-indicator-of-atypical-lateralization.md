@@ -2,13 +2,13 @@
 layout: _layouts/publication.njk
 title: Social Gaze in Preterm Infants May Act as an Early Indicator of Atypical Lateralization
 authors:
-- Forrester
-- Fletcher-Watson
-- Boardman
-- Dean
-- Finnegan
-- Donati
 - Davis
+- Donati
+- Finnegan
+- Dean
+- Boardman
+- Fletcher-Watson
+- Forrester
 year: 2022
 journal: Child Development
 journalURL: https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.13734
