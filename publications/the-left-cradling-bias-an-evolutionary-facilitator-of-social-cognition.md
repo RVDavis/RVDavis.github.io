@@ -1,12 +1,12 @@
 ---
 layout: _layouts/publication.njk
-title: 'The left cradling bias: An evolutionary facilitator of social cognition?'
+title: 'The Left Cradling Bias: An Evolutionary Facilitator of Social Cognition?'
 authors:
+- Forrester
+- Davis
+- Mareschal
 - Todd
 - Malatesta
-- Mareschal
-- Davis
-- Forrester
 year: 2019
 journal: Cortex
 journalURL: https://www.sciencedirect.com/science/article/abs/pii/S0010945218301655
