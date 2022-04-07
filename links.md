@@ -3,12 +3,10 @@ title: Links
 layout: _layouts/links.njk
 permalink: "/links/"
 links:
-- title: Google
-  url: https://www.google.com
-  description: www directory
-- title: Polygon
-  url: https://www.polygon.com
-  description: a place for dweebs and nerds
+- title: Dr Gavin Buckingham - blog
+  url: gavinbuckingham.wordpress.com
+  description: a great blog about the realities of being a research and lectrurer
+    in the UK
 
 ---
-Here are some places that I think are cool...
+Here are some people wo are doing good things...
