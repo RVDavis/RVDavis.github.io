@@ -3,11 +3,11 @@ layout: _layouts/publication.njk
 title: The Impact of Bilingualism on Social Attentional Preferences in Autistic Children
   (Preprint)
 authors:
-- Fletcher-Watson
-- Sorace
-- Rabagliati
-- Montgomery
 - Davis
+- Montgomery
+- Rabagliati
+- Sorace
+- Fletcher-Watson
 year: 2021
 journal: 'OSF preprint repository '
 journalURL: https://osf.io/psza4
