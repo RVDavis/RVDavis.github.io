@@ -39,3 +39,5 @@ fields:
   label: layout
   hidden: true
   default: _layouts/publication.njk
+pages:
+- publications/social-gaze-in-preterm-infants-may-act-as-an-early-indicator-of-atypical-lateralization.md
