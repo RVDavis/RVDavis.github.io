@@ -1,12 +1,12 @@
 ---
 layout: _layouts/publication.njk
-title: The over-pruning hypothesis of autism
+title: The Over-pruning Hypothesis of Autism
 authors:
-- Charman
-- Knowland
-- Karmiloff-Smith
-- Davis
 - Thomas
+- Davis
+- Karmiloff-Smith
+- Knowland
+- Charman
 year: 2017
 journal: Developmental Science
 journalURL: https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12303
