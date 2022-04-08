@@ -2,7 +2,7 @@
 layout: _layouts/base.njk
 title: Autism and Identity
 tagss:
-- Identity
+- identity
 imagePath: "/assets/img/identity.jpg"
 permalink: "/research/{{ title | slug }}/"
 
