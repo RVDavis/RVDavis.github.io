@@ -40,7 +40,7 @@ I currently teach on:
 * Introduction to Education in the 21st Century
 * Learning Accross the Lifespan
 
-I am the module Coordinator for the Education BSc 4th year research module, Professional Enquiry into Practice. 
+I am the module Coordinator for the Education BSc 4th year research module, Professional Enquiry into Practice.
 
 ### January 2018 - June 2021
 
@@ -73,11 +73,11 @@ autism.
 
 I am a developmental psychologist and my research focuses on two main areas: (1) Using longitudinal methods to understand early differences in cognitive development, and the subsequent effects on later developmental outcomes. (2) eliciting children’s voices to inform best practice in educational and family settings. This strand of my research is Informed primarily by my experience as a teaching assistant. In both areas I implement novel and engaging methodologies to include children who are frequently excluded from research, including minimally verbal children and children with intellectual disabilities.
 
-Central to this work is a commitment to involving the communities that I study in the research process; ensuring this research has a strong participatory ethos and is of direct and practical relevancetothoseitaffects. Iachievethisthroughacomprehensiveprogrammeofdissemination, dialogue and partnership activities. I am also a strong advocate of public engagement and community outreach; ensuring that research is accessible to the public, to policy makers and practitioners, and – importantly – to stakeholders.
+Central to this work is a commitment to involving the communities that I study in the research process; ensuring this research has a strong participatory ethos and is of direct and practical relevance to those it affects. I achieve this through a comprehensive programme of dissemination, dialogue and partnership activities. I am also a strong advocate of public engagement and community outreach; ensuring that research is accessible to the public, to policy makers and practitioners, and – importantly – to stakeholders.
 
 ### Peer-reviewed articles and preprints under review
 
-See Publications tab or [Google Scholar](https://scholar.google.co.uk/citations?user=lLgmGWQAAAAJ&hl=en)
+See [Publications](https://rachael-davis.com/publications/) tab or [Google Scholar](https://scholar.google.co.uk/citations?user=lLgmGWQAAAAJ&hl=en)
 
 ### Published protocols
 
@@ -91,8 +91,8 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)** (£49,950). Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
 
-2022: Imagination Agents. **Catalyst Arts & QMU research fund** (£3000). Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.  
-  
+2022: Imagination Agents. **Catalyst Arts & QMU research fund** (£3000). Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.
+
 2021: **University of Edinburgh Public Engagement Fund** (£1500). Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
 
 2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme** (£6,500). Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-investigator.
