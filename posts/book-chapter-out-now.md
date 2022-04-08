@@ -17,4 +17,4 @@ We then highlight some alternative areas of focus for supports and accommodation
 
 Crucially, we highlight the fact that any efforts to support autistic children must consider other important aspects of their identity, so understanding intersectional experiences will be vital in providing such supports.
 
-Go read it now! It's in the 3rd edition of the Wiley-Blackwell Handbook of Childhood Social Development. **PDF** also available at: https://osf.io/zrfyp/
+Go read it now! It's in the 3rd edition of the Wiley-Blackwell Handbook of Childhood Social Development. **PDF** also available [here](https://osf.io/zrfyp/). 
