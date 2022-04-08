@@ -51,6 +51,8 @@
             <h1 class="Fz(1.5em) Fz(2em)--sm">{{ title }}</h1>
         {% endif %}
         {{ content | safe }}
+
+        <button id="back-to-top">⬆︎</button>
     </main>
 
     <footer class="{% if page.url | stripUrl(1) == "posts" %}Mt(1em){% else
