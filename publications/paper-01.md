@@ -7,7 +7,7 @@ authors:
 - Fletcher-Watson
 year: 2021
 journal: OSF Preprints
-journalURL: https://www.google.com
+journalURL: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.741182/full
 publicationPath: ''
 layout: _layouts/publication.njk
 
