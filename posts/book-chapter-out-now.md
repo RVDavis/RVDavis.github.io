@@ -2,7 +2,7 @@
 layout: _layouts/post.njk
 date: 2022-04-05T08:17:26Z
 permalink: "/blog/posts/{{ title | slug }}/"
-title: 'Book chapter out now! '
+title: Book chapter out now - Helping Autistic Children
 tags:
 - intervention
 - inclusion
