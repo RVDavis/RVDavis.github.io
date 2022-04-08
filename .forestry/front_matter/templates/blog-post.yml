@@ -31,4 +31,5 @@ fields:
   hidden: true
   default: "/blog/posts/{{ title | slug }}/"
 pages:
+- posts/a-great-talk-from-crae.md
 - posts/book-chapter-out-now.md
