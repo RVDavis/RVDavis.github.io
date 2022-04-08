@@ -3,4 +3,6 @@ title: Research
 layout: _layouts/research.njk
 
 ---
-Here are some words about what links all my research...
+See below for the types of info that I conduct. In my research, I prioritise lived experiences, putting the childs voice at the forefront of research, and making sure that key findings reach autistic people, families, educators and clinicans. 
+
+If you are interested in working with me as a collaborator or have a student project you'd like to discuss, send me an [**email!**](mailto:rdavis@qmu.ac.uk)
