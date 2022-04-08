@@ -3,9 +3,7 @@ layout: _layouts/post.njk
 date: 2022-04-07T08:17:26Z
 permalink: "/blog/posts/{{ title | slug }}/"
 title: A great talk from CRAE
-tags:
-- Inclusion
-- Education
+tags: []
 
 ---
 A great talk from Dr Becky Wood, hosted by CRAE:
