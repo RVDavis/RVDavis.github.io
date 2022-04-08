@@ -30,3 +30,5 @@ fields:
   label: permalink
   hidden: true
   default: "/blog/posts/{{ title | slug }}/"
+pages:
+- posts/book-chapter-out-now.md
