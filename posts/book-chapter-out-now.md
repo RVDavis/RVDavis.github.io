@@ -9,9 +9,7 @@ tags:
 - supports
 
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our (<a href="https://twitter.com/JacdenHouting?ref_src=twsrc%5Etfw">@JacdenHouting</a> <a href="https://twitter.com/nordahlhansen?ref_src=twsrc%5Etfw">@nordahlhansen</a> <a href="https://twitter.com/SueReviews?ref_src=twsrc%5Etfw">@SueReviews</a>) chapter “helping autistic children” is out in book form! <br><br>Instead of focusing on interventions, we argue for supports/external changes to allow autistic children to thrive.<br><br>PDF version: <a href="https://t.co/lNdz8qHjVl">https://t.co/lNdz8qHjVl</a> <a href="https://t.co/6wOimHEHdP">pic.twitter.com/6wOimHEHdP</a></p>&mdash; Rachael Davis (@rachaelvdavis) <a href="https://twitter.com/rachaelvdavis/status/1512351980081012737?ref_src=twsrc%5Etfw">April 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Find it in the 3rd edition of the Wiley-Blackwell Handbook of Childhood Social Development.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our (<a href="https://twitter.com/JacdenHouting?ref_src=twsrc%5Etfw">@JacdenHouting</a> <a href="https://twitter.com/nordahlhansen?ref_src=twsrc%5Etfw">@nordahlhansen</a> <a href="https://twitter.com/SueReviews?ref_src=twsrc%5Etfw">@SueReviews</a>) chapter “helping autistic children” is out in book form! <br><br>Instead of focusing on interventions, we argue for supports/external changes to allow autistic children to thrive.<br><br>PDF version: <a href="https://t.co/lNdz8qHjVl">https://t.co/lNdz8qHjVl</a> <a href="https://t.co/6wOimHEHdP">pic.twitter.com/6wOimHEHdP</a></p>— Rachael Davis (@rachaelvdavis) <a href="https://twitter.com/rachaelvdavis/status/1512351980081012737?ref_src=twsrc%5Etfw">April 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In this chapter, we give a brief overview of traditional autism interventions, and discuss some of the (many) limitations, including the under-reporting of adverse effects (featuring the excellent work of [@KristenBott](https://twitter.com/KristenBott), [@MichealSandbank](https://twitter.com/MichealSandbank) et al.) and concerns around compliance and "normalisation"
 
@@ -19,4 +17,4 @@ We then highlight some alternative areas of focus for supports and accommodation
 
 Crucially, we highlight the fact that any efforts to support autistic children must consider other important aspects of their identity, so understanding intersectional experiences will be vital in providing such supports.
 
-Go read it now! PDF also available at: https://osf.io/zrfyp/
+Go read it now! It's in the 3rd edition of the Wiley-Blackwell Handbook of Childhood Social Development. **PDF** also available at: https://osf.io/zrfyp/
