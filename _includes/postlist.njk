@@ -16,9 +16,6 @@
                     {% endfor %}
                 </div>
             </div>
-            {% if entry.data.content %}
-                <p>{{ entry.data.content | truncate(250) | safe }}</p>
-            {% endif %}
         </li>
         {% if entry !== postsList | first  %}
             <hr>
