@@ -9,7 +9,7 @@ links:
     near you!
 - title: Dr Gavin Buckingham - blog
   url: https://gavinbuckingham.wordpress.com
-  description: A great blog about the realities of being a researcher and lectrurer
+  description: A great blog about the realities of being a researcher and lecturer
     in the UK
 
 ---
