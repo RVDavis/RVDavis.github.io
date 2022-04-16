@@ -17,8 +17,7 @@ My doctoral research aimed to investigate the variability observed in the profil
 **MSc Cognitive Neuroscience** _(Distinction)_ - University College London &
 Birkbeck, University of London.
 
-Dissertation: Tool Use and the Flexibility of the Body Schema in Typically
-Developing Children. Supervised by Dr Andrew Bremner.
+Dissertation: Tool Use and the Flexibility of the Body Schema in Typically Developing Children. Supervised by Dr Andrew Bremner.
 
 ### 2006-2009
 
@@ -40,7 +39,7 @@ I currently teach on:
 * Introduction to Education in the 21st Century
 * Learning Accross the Lifespan
 
-I am the module Coordinator for the Education BSc 4th year research module, Professional Enquiry into Practice.
+I am the module coordinator for the 4th year research module, Professional Enquiry into Practice.
 
 ### January 2018 - June 2021
 
@@ -50,12 +49,9 @@ I led an ESRC-funded project investigating the effects of bilingualism on cognit
 
 ### January 2017 - December 2017
 
-**Postdoctoral Research Assistant**, Centre for Brain and Cognitive Sciences,
-Birkbeck, University of London.
+**Postdoctoral Research Assistant**, Centre for Brain and Cognitive Sciences,Birkbeck, University of London.
 
-This aim of this research project was to assess motor abilities and identify
-possible differences in cerebral lateralisation in children with and without
-autism.
+This aim of this research project was to assess motor abilities and identify possible differences in cerebral lateralisation in children with and without autism.
 
 ### Jan 2017 - May 2018
 
@@ -81,29 +77,27 @@ See [Publications](https://rachael-davis.com/publications/) tab or [Google Schol
 
 ### Published protocols
 
-**Davis, R.** Montgomery, L., Rabagliati, H., Sorace, A., Fletcher-Watson,S.
-Charting the impact of bilingualism on social attentional preferences in
-children with and without autism. _Open Science Framework_: DOI: 10.17605/OSF.IO/75PHW.
+**Davis, R.** Montgomery, L., Rabagliati, H., Sorace, A., Fletcher-Watson,S. Charting the impact of bilingualism on social attentional preferences in children with and without autism. _Open Science Framework_: [DOI: 10.17605/OSF.IO/75PHW.](https://osf.io/75phw/)
 
-Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & Fletcher-Watson, S. The effects of bilingualism on executive inhibitory processes in children with autism.
+Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & Fletcher-Watson, S. The effects of bilingualism on executive inhibitory processes in children with autism. _Open Science Framework_: [DOI 10.17605/OSF.IO/DPSV4](https://osf.io/dpsv4/)
 
 ### Research grants and awards
 
-2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)** (£49,950). Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
+2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)**. Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
 
-2022: Imagination Agents. **Catalyst Arts & QMU research fund** (£3000). Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.
+2022: Imagination Agents. **Catalyst Arts & QMU research fund**. Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.
 
-2021: **University of Edinburgh Public Engagement Fund** (£1500). Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
+2021: **University of Edinburgh Public Engagement Fund** Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
 
-2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme** (£6,500). Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-investigator.
+2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme**. Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-I. 
 
-2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award £2600.
+2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award.
 
-2017: Creating computational models of interventions to understand variability in autism. **Birkbeck Wellcome Trust Institutional Strategic Support Fund** (£15,550). Awarded to: Rachael Davis and Michael Thomas. Role: Principal Investigator.
+2017: Creating computational models of interventions to understand variability in autism. **Birkbeck Wellcome Trust Institutional Strategic Support Fund**. Awarded to: Rachael Davis and Michael Thomas. Role: PI
 
-2017: **Bloomsbury Doctoral Training Programme** – Won support to run one-day conference “Interdisciplinary approaches to Developmental Disorders” (£1800). Awarded to Rachael Davis and Michael Thomas.
+2017: **Bloomsbury Doctoral Training Programme** – Won support to run one-day conference “Interdisciplinary approaches to Developmental Disorders”. Awarded to Rachael Davis and Michael Thomas.
 
-2015: **Birkbeck, University of London** Travel grant for conference: £500.
+2015: **Birkbeck, University of London** Travel grant for conference.
 
 ### Selected conference presentations and invited talks (since 2019)
 
@@ -194,13 +188,12 @@ I have supervised 10 BSc and MSc students to completion at QMU, The University o
 
 ### Reviewing work
 
-I regularly review manuscripts for the following journals: _Frontiers in_
-_Psychology, Autism, Developmental Science, Journal of Autism and Developmental_ _Disorders, Autism & Developmental Language Impairments, Research In Autism_, _Spectrum Disorders, Perspectives in Psychological Science, Scientific Reports._
+I regularly review manuscripts for the following journals: _Autism, Autism & Developmental Language Impairments, Autism Research, Developmental Science, Frontiers in_ _Psychology, Journal of Autism and Developmental_ _Disorders, Research In Autism_ _Spectrum Disorders & Perspectives in Psychological Science._
 
 ### Membership of external organisations
 
 I am a member of the International Society for Autism Research (INSAR).  
-I am a Chartered member of the BPS (developmental section)
+I am a Chartered member of the BPS (Developmental section)
 
 ***
 
