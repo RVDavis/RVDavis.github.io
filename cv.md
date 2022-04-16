@@ -89,7 +89,7 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 2021: **University of Edinburgh Public Engagement Fund** Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
 
-2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme**. Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-I. 
+2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme**. Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-I.
 
 2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award.
 
@@ -144,7 +144,7 @@ In addition to my current lectureship at QMU, I have taught on a range of underg
 * Associate Lecturer, _Developmental Cognitive Neuroscience of Typical and Atypical Development_, _MSc Cognitive Neuroscience._ Birkbeck, University of London (2018)
 * Associate Lecturer, MSc _Developmental Cognitive Neuroscience MSc_, Birkbeck, University of London (2018, 2019)
 * Guest lecturer, _Fundamental Debates in Cognitive Science MSc course_, Birkbeck, University of London (2017, 2018)
-* I developed and led a 10-week undergraduate Child Development, University of Glasgow
+* I developed and led a 10-week undergraduate Child Development course for the University of Glasgow
 
 ### Supervision
 
