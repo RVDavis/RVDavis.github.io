@@ -168,10 +168,10 @@ I have supervised 10 BSc and MSc students to completion at QMU, The University o
 ### Academic service
 
 **2022-Present:** Organiser of the Memory & Research Seminar Series, QMU.  
-**2021-Present:** Co-organiser of the QMU early career researcher network  
-**2021-Present:** Committe member, School Research & Innovation Enhancement Group, QMU  
+**2021-Present:** Co-organiser of the QMU early career researcher network.  
+**2021-Present:** Committe member, School Research & Innovation Enhancement Group, QMU.  
 **2021-Present:** Member of the Ethics committee, QMU  
-**2019-Present:** Organiser of the _Rising Star Seminar Series_, a quarterly seminar series for early career researchers based within Europe and working in the fields of Education and Developmental Psychology to discuss their work and careers to date.  
+**2019-2021** Organiser of the _Rising Star Seminar Series_, a quarterly seminar series for early career researchers based within Europe and working in the fields of Education and Developmental Psychology to discuss their work and careers to date.  
 **2017:** Secured funding to organise a one-day UK-based conference: _Interdisciplinary approaches to understanding Autism Spectrum Disorders_. University of London. This included eight academic speakers who are world-leaders in their fields, and over 100 attendees.
 
 ### Markers of esteem
