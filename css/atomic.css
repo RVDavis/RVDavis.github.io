@@ -97,6 +97,9 @@
 .C\(lightslategray\)\:h:hover {
   color: lightslategray;
 }
+.Cur\(p\) {
+  cursor: pointer;
+}
 .D\(b\) {
   display: block;
 }
