@@ -94,7 +94,7 @@
 
 <nav class="D(n)--sm D(f) Jc(sb) Mb(0.5em)">
 	<div class="Pos(r)">
-		<p onclick="show()" id="menu-btn" class="M(0) P(0) Cur(p) C(lightslategray):h">Menu</p>
+		<p id="menu-btn" class="M(0) P(0) Cur(p) C(lightslategray):h">Menu</p>
 		<div id="menu-dropdown" class="D(n) Z(2)">
 			
 				
@@ -130,19 +130,20 @@
 </nav>
 
 <script>
-	function show() {
-		document.getElementById("menu-dropdown").classList.toggle("D\(n\)");
-		document.getElementById("menu-dropdown").classList.toggle("D\(b\)");
-		document.getElementById("menu-btn").classList.toggle("C\(lightslategray\)");
-	}
+	document.getElementById("menu-btn").addEventListener("click",
+		function(event) {
+			document.getElementById("menu-dropdown").classList.toggle("D\(n\)");
+			document.getElementById("menu-dropdown").classList.toggle("D\(b\)");
+			document.getElementById("menu-btn").classList.toggle("C\(lightslategray\)");
+		})
 
-	window.onclick = function(event) {
+	window.addEventListener("click", function(event) {
 		if (!event.target.matches("#menu-btn")) {
 			document.getElementById("menu-btn").classList.remove("C\(lightslategray\)");
 			document.getElementById("menu-dropdown").classList.remove("D\(b\)")
 			document.getElementById("menu-dropdown").classList.add("D\(n\)")
 		}
-	}
+	})
 </script>
 
     </header>
