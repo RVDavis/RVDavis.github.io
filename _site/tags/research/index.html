@@ -93,9 +93,9 @@
         
 
 <nav class="D(n)--sm D(f) Jc(sb) Mb(0.5em)">
-	<div class="drop Pos(r) C(lightslategray):h">
-		Menu
-		<div class="D(n) drop:h_D(b) Z(2)">
+	<div class="Pos(r)">
+		<p onclick="show()" id="menu-btn" class="M(0) P(0) Cur(p) C(lightslategray):h">Menu</p>
+		<div id="menu-dropdown" class="D(n) Z(2)">
 			
 				
 				<a href="/about/" class="D(b) Mstart(1em) P(2px)
@@ -128,6 +128,22 @@
 		</p>
 	</div>
 </nav>
+
+<script>
+	function show() {
+		document.getElementById("menu-dropdown").classList.toggle("D\(n\)");
+		document.getElementById("menu-dropdown").classList.toggle("D\(b\)");
+		document.getElementById("menu-btn").classList.toggle("C\(lightslategray\)");
+	}
+
+	window.onclick = function(event) {
+		if (!event.target.matches("#menu-btn")) {
+			document.getElementById("menu-btn").classList.remove("C\(lightslategray\)");
+			document.getElementById("menu-dropdown").classList.remove("D\(b\)")
+			document.getElementById("menu-dropdown").classList.add("D\(n\)")
+		}
+	}
+</script>
 
     </header>
 
@@ -210,6 +226,21 @@
     
         <li>
             <h2>
+                <a href="/research/understanding-autistic-experiences-of-education/">Understanding Autistic Experiences of Education</a>
+            </h2>
+            <div class="D(f) Jc(sb)">
+                <time class="Fs(i) C(lightslategray) Miw(fc) Mend(2em)" datetime="">Invalid DateTime</time>
+                <div class="Ta(end)">
+                    
+                </div>
+            </div>
+        </li>
+        
+            <hr>
+        
+    
+        <li>
+            <h2>
                 <a href="/research/autism-and-identity/">Autism and Identity</a>
             </h2>
             <div class="D(f) Jc(sb)">
@@ -226,21 +257,6 @@
         <li>
             <h2>
                 <a href="/research/charting-the-development-of-cognitive-processes/">Charting the Development of Cognitive Processes</a>
-            </h2>
-            <div class="D(f) Jc(sb)">
-                <time class="Fs(i) C(lightslategray) Miw(fc) Mend(2em)" datetime="">Invalid DateTime</time>
-                <div class="Ta(end)">
-                    
-                </div>
-            </div>
-        </li>
-        
-            <hr>
-        
-    
-        <li>
-            <h2>
-                <a href="/research/understanding-autistic-experiences-of-education/">Understanding Autistic Experiences of Education</a>
             </h2>
             <div class="D(f) Jc(sb)">
                 <time class="Fs(i) C(lightslategray) Miw(fc) Mend(2em)" datetime="">Invalid DateTime</time>
