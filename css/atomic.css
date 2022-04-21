@@ -58,6 +58,9 @@
 .C\(red\) {
   color: red;
 }
+.C\(white\) {
+  color: white;
+}
 .C\(black\)\:link:link {
   color: black;
 }
@@ -118,6 +121,12 @@
 .drop:hover .drop\:h_D\(b\) {
   display: block;
 }
+.Fxg\(1\) {
+  flex-grow: 1;
+}
+.Fxb\(a\) {
+  flex-basis: auto;
+}
 .As\(fe\) {
   align-self: flex-end;
 }
@@ -147,6 +156,9 @@
 }
 .H\(300px\) {
   height: 300px;
+}
+.H\(600px\) {
+  height: 600px;
 }
 .M\(0\) {
   margin: 0;
@@ -182,6 +194,9 @@
 .Mt\(2\.5rem\) {
   margin-top: 2.5rem;
 }
+.Mt\(60px\) {
+  margin-top: 60px;
+}
 .Mend\(2em\) {
   margin-right: 2em;
 }
@@ -202,6 +217,9 @@
 }
 .Maw\(150px\) {
   max-width: 150px;
+}
+.Maw\(800px\) {
+  max-width: 800px;
 }
 .Maw\(850px\) {
   max-width: 850px;
@@ -268,11 +286,17 @@
 .Pos\(st\) {
   position: sticky;
 }
+.Ta\(c\) {
+  text-align: center;
+}
 .Ta\(end\) {
   text-align: right;
 }
 .W\(3em\) {
   width: 3em;
+}
+.W\(600px\) {
+  width: 600px;
 }
 .Z\(-1\) {
   z-index: -1;
