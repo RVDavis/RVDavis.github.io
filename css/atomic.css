@@ -28,6 +28,9 @@
 .Bg\(n\)\:hover:hover {
   background: none;
 }
+.Bgi\(goose404\) {
+  background-image: url(/assets/goose.jpg);
+}
 .Bgc\(mainColour\) {
   background-color: #fffcfa;
 }
