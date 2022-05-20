@@ -3,6 +3,9 @@ title: Links
 layout: _layouts/links.njk
 permalink: "/links/"
 links:
+- title: Mixes to work to
+  url: https://www.mixcloud.com/aquariumdrunkard/
+  description: Music for working to!
 - title: 'Me, Human '
   url: http://www.mehuman.io/
   description: Science public engagement at it's best  - go and see them at an event
