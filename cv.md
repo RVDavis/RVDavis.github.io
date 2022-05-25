@@ -83,6 +83,8 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Research grants and awards
 
+2022: Growing up autistic and bilingual - information for families. **University of Edinburgh, CAHSS Knowledge Exchange and Impact Grant.** Awarded to: Bérengère Digard & Rachael Davis. Role: Co-PI.  
+
 2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)**. Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
 
 2022: Imagination Agents. **Catalyst Arts & QMU research fund**. Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.
