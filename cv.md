@@ -83,7 +83,7 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Research grants and awards
 
-2022: Growing up autistic and bilingual - information for families. **University of Edinburgh, CAHSS Knowledge Exchange and Impact Grant.** Awarded to: Bérengère Digard & Rachael Davis. Role: Co-PI.  
+2022: Growing up autistic and bilingual - information for families. **University of Edinburgh, CAHSS Knowledge Exchange and Impact Grant.** Awarded to: Bérengère Digard & Rachael Davis. Role: Co-PI.
 
 2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)**. Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
 
@@ -150,7 +150,7 @@ In addition to my current lectureship at QMU, I have taught on a range of underg
 
 ### Supervision
 
-I have supervised 10 BSc and MSc students to completion at QMU, The University of Edinburgh and Birkbeck, University of London and QMU, all within autism, developmental psychology or education research.
+I have supervised 10 BSc and MSc students to completion at QMU, The University of Edinburgh and Birkbeck, University of London, all within autism, developmental psychology or education research.
 
 ### Selected students project titles:
 
@@ -169,8 +169,10 @@ I have supervised 10 BSc and MSc students to completion at QMU, The University o
 
 ### Academic service
 
-**2022-Present:** Organiser of the Memory & Research Seminar Series, QMU.  
-**2021-Present:** Co-organiser of the QMU early career researcher network.  
+**2022:** Member of the School Academic Board Committee, QMU.  
+**2022:** Member of the QMU Scottish Enhancement Theme (expertise in neurodiversity).   
+**2022:** Co-organiser of the Psychology, Sociology & Education Research Group at QMU.  
+**2021-Present:** Co-organiser of the QMU Early Career Researcher network.  
 **2021-Present:** Committe member, School Research & Innovation Enhancement Group, QMU.  
 **2021-Present:** Member of the Ethics committee, QMU  
 **2019-2021** Organiser of the _Rising Star Seminar Series_, a quarterly seminar series for early career researchers based within Europe and working in the fields of Education and Developmental Psychology to discuss their work and careers to date.  
