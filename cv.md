@@ -83,27 +83,43 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Research grants and awards
 
-2022: Growing up autistic and bilingual - information for families. **University of Edinburgh, CAHSS Knowledge Exchange and Impact Grant.** Awarded to: Bérengère Digard & Rachael Davis. Role: Co-PI.
+**Research Grants:**
 
 2022-2023: Understanding the impact of bilingualism for autistic children. **Fondation International de la Recherche Appliqué sur le Handicap (FIRAH)**. Awarded to: Rachael Davis, Sue Fletcher-Watson & Antonella Sorace. Role: PI.
 
 2022: Imagination Agents. **Catalyst Arts & QMU research fund**. Awarded to: Helen Burns, Rachael Davis, Suzie Dick. Role: Co-I.
 
-2021: **University of Edinburgh Public Engagement Fund** Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
-
 2018: Motor biases and cerebral lateralisation **Waterloo Foundation, Child** **Development Scheme**. Awarded to: Gillian Forrester, Rachael Davis, Brenda Todd. Role: Co-I.
-
-2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award.
 
 2017: Creating computational models of interventions to understand variability in autism. **Birkbeck Wellcome Trust Institutional Strategic Support Fund**. Awarded to: Rachael Davis and Michael Thomas. Role: PI
 
+**Public engagement grants:**
+
+2022: Growing up autistic and bilingual - information for families. **University of Edinburgh, CAHSS Knowledge Exchange and Impact Grant.** Awarded to: Bérengère Digard & Rachael Davis. Role: Co-PI.
+
+2021: **University of Edinburgh Public Engagement Fund** Awarded to: Rachael Davis, Bérengère Digard. Role: Co-PI.
+
 2017: **Bloomsbury Doctoral Training Programme** – Won support to run one-day conference “Interdisciplinary approaches to Developmental Disorders”. Awarded to Rachael Davis and Michael Thomas.
 
-2015: **Birkbeck, University of London** Travel grant for conference.
+**Awards:**
+
+2022: **BPS Early Career Conference Bursary Scheme** for attendance at the 13th Autism Europe conference. 
+
+2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award.
+
+2015: **Birkbeck, University of London** Travel grant for attendance at BPS developmental conference.
 
 ### Selected conference presentations and invited talks (since 2019)
 
-**2020:** Autism and Bilingualism, and cognitive development: Invited Speaker, Mathematics MSc Seminar series, _University of Edinburgh_.  
+**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker. **  
+2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for poster presentation.  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentatio  
+**2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ invited speaker.  
+**2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for poster presentation.  
+**2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, Invited speaker.   
+**2021:** A Multilevel Understanding of Bilingualism and Autism: _Five Years of the Salvesen Mindroom Research Centre,_ Invited speaker.  
+**2020:** Autism Bilingualism, and cognitive development: Invited Speaker, Mathematics MSc Seminar series, _University of Edinburgh_.  
 **2020:** Measuring social cognition in children with learning difficulties -
 Invited speaker at Psycholinguistics Workshop, _Middle East Technical University_,Turkey. *  
 **2020:** Understanding social cognition in autistic children, _International Society_ _for Autism Research_. Selected for poster presentation *  
@@ -170,7 +186,7 @@ I have supervised 10 BSc and MSc students to completion at QMU, The University o
 ### Academic service
 
 **2022:** Member of the School Academic Board Committee, QMU.  
-**2022:** Member of the QMU Scottish Enhancement Theme (expertise in neurodiversity).   
+**2022:** Member of the QMU Scottish Enhancement Theme (expertise in neurodiversity).  
 **2022:** Co-organiser of the Psychology, Sociology & Education Research Group at QMU.  
 **2021-Present:** Co-organiser of the QMU Early Career Researcher network.  
 **2021-Present:** Committe member, School Research & Innovation Enhancement Group, QMU.  
