@@ -29,16 +29,13 @@ Dissertation: Tool Use and the Flexibility of the Body Schema in Typically Devel
 
 ### June 2021 - Present
 
-**Lecturer in Psychology & Education**, Queen Margaret University, Edinburgh. See below for academic service and Dissertation supervision.
+**Lecturer in Psychology & Education**, Queen Margaret University, Edinburgh. 
 
-I currently teach on:
+I currently teach and coordinate a number of modules on a range of courses around inclusion, diversity and child development and supervise a range of undergraduate and postgraduate projects. 
 
-* Childhood Development
-* Inclusive Practice/ Inclusive Learning: Difference and Diversity
-* Foundations of Psychology
-* Introduction to Education in the 21st Century
+I sit on a number of research and ethics committees including the school acadmic board, I am the co-lead for the school research seminar series, and a member of the research enhancement team. 
 
-I am the module coordinator for the 4th year dissertation module, Professional Enquiry into Practice, and a 2nd year course, Learning Across the Lifespan.
+Please see relevant sections below for detailed information, and the research section for current projects. 
 
 ### January 2018 - June 2021
 
@@ -110,10 +107,10 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Selected conference presentations and invited talks (since 2019)
 
-**2022:__ Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker. **  
-2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
+**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker.   
+**2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for poster presentation.  
-**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentatio  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentation.  
 **2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ invited speaker.  
 **2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for poster presentation.  
 **2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, Invited speaker.  
@@ -136,17 +133,17 @@ Development in Autistic Children. Poster Presentation, _International Society fo
 
 ### Selected Public Engagement Activities
 
-**2020:** Autism and Bilingualism. Selected for _Pint of Science, Edinburgh_ (delayed until November).  
-**2020:** Selected to contribute as part of an expert panel on the
-production of a bilingual measure for researchers (in addition, will be
-co-author on journal article).  
-**2019:** Statistics for non-researchers: _Invited one-day course leader (also_ designed the course)  
-**2019:** Autism and Development. _Invited Speaker, Phoenix School network_, London.  
-**2019:** Autism and Development, _Invited speaker, Signet Training Programme_, London.  
-**2019**: Autism and Bilingualism. _Invited Speaker, Bigland Green Primary School_, London.  
-**2019**: Organised Research party for participants of Autism and Bilingualism Study.  
-**2018**: AMASE Research Podcast, _Invited guest speaker_.  
-**2018:** Autism and Bilingualism: _Invited blogpost for Bilingualism Matters_.
+> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [**Link**](https://patrickwildcentre.com/autism-bilingualism-practitioner-webinar/ "Webinar")**  
+> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [**Link**](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")**  
+> > 2020:** Autism and Bilingualism. Selected for _Pint of Science, Edinburgh_ (delayed until November).  
+> > **2020:** Selected to contribute as part of an expert panel on the production of a bilingual measure for researchers (in addition, I am co-author on journal article).  
+> > **2019:** Statistics for non-researchers: _Invited one-day course leader (also_ designed the course)  
+> > **2019:** Autism and Development. _Invited Speaker, Phoenix School network_, London.  
+> > **2019:** Autism and Development, _Invited speaker, Signet Training Programme_, London.  
+> > **2019**: Autism and Bilingualism. _Invited Speaker, Bigland Green Primary School_, London.  
+> > **2019**: Organised Research party for participants of Autism and Bilingualism Study.  
+> > **2018**: AMASE Research Podcast, _Invited guest speaker_.  
+> > **2018:** Autism and Bilingualism: _Invited blogpost for Bilingualism Matters_.
 
 ***
 
@@ -156,6 +153,12 @@ co-author on journal article).
 
 In addition to my current lectureship at QMU, I have taught on a range of undergraduate and postgraduate courses at the University of Edinburgh, Birkbeck, University of London and University College London, as an associate lecturer and guest lecturer. I wrote or adapted all lectures and courses that I have led. This includes:
 
+* Module coordinator for the 4th year _Dissertation Module_ on Education courses (QMU)
+* Module Coordinator for _Learning Across the Lifespan_ (year 2 Education, QMU)
+* Lecturer, _Difference and Diversity_ (year 3 Education, QMU)
+* Lecturer, _Foundations of Psychology_ (year 1 Psychology, QMU)
+* Lecturer, _Child Development_ (year 2 Education, QMU)
+* Lecturer, _Education in the 21st Century_ (year 1 Education, QMU).
 * Lecturer, MSc Neuroscience elective course, _Psychological Theories of ASD_ The University of Edinburgh (2018, 2019, 2020)
 * Seminar leader, _Introduction to Research methods_, BSc Psychology, Birkbeck, University of London (2017)
 * Associate Lecturer, _Developmental Cognitive Neuroscience of Typical and Atypical Development_, _MSc Cognitive Neuroscience._ Birkbeck, University of London (2018)
