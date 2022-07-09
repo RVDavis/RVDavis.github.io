@@ -37,9 +37,8 @@ I currently teach on:
 * Inclusive Practice/ Inclusive Learning: Difference and Diversity
 * Foundations of Psychology
 * Introduction to Education in the 21st Century
-* Learning Accross the Lifespan
 
-I am the module coordinator for the 4th year research module, Professional Enquiry into Practice.
+I am the module coordinator for the 4th year dissertation module, Professional Enquiry into Practice, and a 2nd year course, Learning Across the Lifespan.
 
 ### January 2018 - June 2021
 
@@ -103,7 +102,7 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 **Awards:**
 
-2022: **BPS Early Career Conference Bursary Scheme** for attendance at the 13th Autism Europe conference. 
+2022: **BPS Early Career Conference Bursary Scheme** for attendance at the 13th Autism Europe conference.
 
 2017: **Nancy Lurie Marks Family Foundation** Cold Spring Harbor Laboratories Summer School Travel Award.
 
@@ -111,13 +110,13 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Selected conference presentations and invited talks (since 2019)
 
-**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker. **  
+**2022:__ Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker. **  
 2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for poster presentation.  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentatio  
 **2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ invited speaker.  
 **2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for poster presentation.  
-**2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, Invited speaker.   
+**2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, Invited speaker.  
 **2021:** A Multilevel Understanding of Bilingualism and Autism: _Five Years of the Salvesen Mindroom Research Centre,_ Invited speaker.  
 **2020:** Autism Bilingualism, and cognitive development: Invited Speaker, Mathematics MSc Seminar series, _University of Edinburgh_.  
 **2020:** Measuring social cognition in children with learning difficulties -
