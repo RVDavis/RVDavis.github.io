@@ -40,6 +40,7 @@ fields:
   hidden: true
   default: _layouts/publication.njk
 pages:
+- publications/autism-and-bilingualism-a-thematic-analysis-of-practitioners-experiences.md
 - publications/being-autistic-and-bilingual-a-thematic-analysis-of-the-experiences-of-autistic-bilingual-adults-living-in-the-uk.md
 - publications/computational-modeling-of-interventions-for-developmental-disorders.md
 - publications/evolutionary-motor-biases-and-cognition-in-children-with-and-without-autism.md
