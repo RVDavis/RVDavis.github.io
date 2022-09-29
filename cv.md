@@ -29,13 +29,13 @@ Dissertation: Tool Use and the Flexibility of the Body Schema in Typically Devel
 
 ### June 2021 - Present
 
-**Lecturer in Psychology & Education**, Queen Margaret University, Edinburgh. 
+**Lecturer in Psychology & Education**, Queen Margaret University, Edinburgh.
 
-I currently teach and coordinate a number of modules on a range of courses around inclusion, diversity and child development and supervise a range of undergraduate and postgraduate projects. 
+I currently teach and coordinate a number of modules on a range of courses around inclusion, diversity and child development and supervise a range of undergraduate and postgraduate projects.
 
-I sit on a number of research and ethics committees including the school acadmic board, I am the co-lead for the school research seminar series, and a member of the research enhancement team. 
+I sit on a number of research and ethics committees including the school acadmic board, I am the co-lead for the school research seminar series, and a member of the research enhancement team.
 
-Please see relevant sections below for detailed information, and the research section for current projects. 
+Please see relevant sections below for detailed information, and the research section for current projects.
 
 ### January 2018 - June 2021
 
@@ -107,7 +107,7 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Selected conference presentations and invited talks (since 2019)
 
-**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker.   
+**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker.  
 **2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for poster presentation.  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentation.  
@@ -133,8 +133,8 @@ Development in Autistic Children. Poster Presentation, _International Society fo
 
 ### Selected Public Engagement Activities
 
-> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [**Link**](https://patrickwildcentre.com/autism-bilingualism-practitioner-webinar/ "Webinar")**  
-> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [**Link**](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")**  
+> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [**Link__](https://patrickwildcentre.com/autism-bilingualism-practitioner-webinar/ "Webinar")**  
+> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [**Link__](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")**  
 > > 2020:** Autism and Bilingualism. Selected for _Pint of Science, Edinburgh_ (delayed until November).  
 > > **2020:** Selected to contribute as part of an expert panel on the production of a bilingual measure for researchers (in addition, I am co-author on journal article).  
 > > **2019:** Statistics for non-researchers: _Invited one-day course leader (also_ designed the course)  
@@ -168,9 +168,13 @@ In addition to my current lectureship at QMU, I have taught on a range of underg
 
 ### Supervision
 
-I have supervised 10 BSc and MSc students to completion at QMU, The University of Edinburgh and Birkbeck, University of London, all within autism, developmental psychology or education research.
+I am currently supervising one PhD student at QMU. I have supervised 10 BSc and MSc students to completion at QMU, The University of Edinburgh and Birkbeck, University of London, all within autism, developmental psychology or education research.
 
-### Selected students project titles:
+### PhD student projects:
+
+* Mairéad Murray: Contemporary Exploration of Children’s Leisure Experiences (2021-Current).
+
+### Selected postgrad and undergrad students project titles:
 
 * Understanding the views of parents of neurodivergent, bilingual children (2021/2022)
 * Understanding the experiences of autistic and gender diverse adults (2021/2022)
