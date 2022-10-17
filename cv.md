@@ -108,10 +108,10 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 ### Selected conference presentations and invited talks (since 2019)
 
 **2022: Invited session chair:** supporting families marginalised by ethnicity, culture, language or finances - Autism Europe conference 2022.  
-**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: Autism Europe, **selected poster presentation**.**  
-2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, **invited speaker.**  
+**2022:** Autism and Bilingualism: A thematic analysis of practitioner perspectives and experiences: Autism Europe, **selected poster presentation**.  
+2022: Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, **invited speaker.**  
 **2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for **poster presentation**.  
-**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for **poster presentation.**  
+**2022:** Autism and Bilingualism: A thematic analysis of practitioner perspectives and experiences: _Autistica Research fesival,_ selected for **poster presentation.**  
 **2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for **poster presentation**.  
 **2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ **invited speaker**.  
 **2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for **poster presentation.**  
@@ -135,8 +135,8 @@ Development in Autistic Children. **Poster Presentation,** _International Societ
 
 ### Selected Public Engagement Activities
 
-> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [**Link__](https://patrickwildcentre.com/autism-bilingualism-practitioner-webinar/ "Webinar")**  
-> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [**Link__](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")**  
+> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [Link]()  
+> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [Link_](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")  
 > > 2020:** Autism and Bilingualism. Selected for _Pint of Science, Edinburgh_ (delayed until November).  
 > > **2020:** Selected to contribute as part of an expert panel on the production of a bilingual measure for researchers (in addition, I am co-author on journal article).  
 > > **2019:** Statistics for non-researchers: _Invited one-day course leader (also_ designed the course)  
@@ -216,7 +216,7 @@ I am currently supervising one PhD student at QMU. I have supervised 10 BSc and 
 
 ### Reviewing work
 
-I regularly review manuscripts for the following journals: _Autism, Autism & Developmental Language Impairments, Autism Research, Developmental Science, Frontiers in_ _Psychology, Journal of Autism and Developmental_ _Disorders, Research In Autism_ _Spectrum Disorders & Perspectives in Psychological Science._
+I regularly review manuscripts for the following journals: _Autism, Autism in Adulthood, Autism & Developmental Language Impairments, Autism Research, Developmental Science, Frontiers in_ _Psychology, Journal of Autism and Developmental_ _Disorders, Perspectives in Psychological Science & Research In Autism_ _Spectrum Disorders._ 
 
 ### Membership of external organisations
 
