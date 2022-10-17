@@ -107,27 +107,29 @@ Montgomery L., **Davis, R.**, Chondrogianni, V., Sorace, A., Rabagliati, H., & F
 
 ### Selected conference presentations and invited talks (since 2019)
 
-**2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, invited speaker.  
-**2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for poster presentation.  
-**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for poster presentation.  
-**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for poster presentation.  
-**2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ invited speaker.  
-**2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for poster presentation.  
-**2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, Invited speaker.  
-**2021:** A Multilevel Understanding of Bilingualism and Autism: _Five Years of the Salvesen Mindroom Research Centre,_ Invited speaker.  
-**2020:** Autism Bilingualism, and cognitive development: Invited Speaker, Mathematics MSc Seminar series, _University of Edinburgh_.  
+**2022: Invited session chair:** supporting families marginalised by ethnicity, culture, language or finances - Autism Europe conference 2022.  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: Autism Europe, **selected poster presentation**.**  
+2022:** Workshop: Conducting participatory research with non-speaking autistic children and young people: Warwick University, **invited speaker.**  
+**2022:** Neurodiversity & bilingual families - access to information and support: _Autistica Research fesival,_ selected for **poster presentation**.  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _Autistica Research fesival,_ selected for **poster presentation.**  
+**2022:** Autism and Bilingualism: A Thematic Analysis of Practitioner Perspectives and Experiences: _International Society_ _for Autism Research_. Selected for **poster presentation**.  
+**2021:** Autism Bilingualism, and cognitive development: _NHS RHCYP Grand Round,_ **invited speaker**.  
+**2021:** Charting the impact of bilingualism on social attentional skills in autistic and non-autistic children. _International Society_ _for Autism Research_. Selected for **poster presentation.**  
+**2021:** Charting the impact of bilingualism on development in autistic and non-autistic children. _University of Edinburgh Psychology Society seminar series_, **Invited speaker.**  
+**2021:** A Multilevel Understanding of Bilingualism and Autism: _Five Years of the Salvesen Mindroom Research Centre,_ I**nvited speaker.**  
+**2020:** Autism Bilingualism, and cognitive development: **Invited Speaker,** Mathematics MSc Seminar series, _University of Edinburgh_.  
 **2020:** Measuring social cognition in children with learning difficulties -
-Invited speaker at Psycholinguistics Workshop, _Middle East Technical University_,Turkey. *  
-**2020:** Understanding social cognition in autistic children, _International Society_ _for Autism Research_. Selected for poster presentation *  
+**Invited speaker** at Psycholinguistics Workshop, _Middle East Technical University_,Turkey. *  
+**2020:** Understanding social cognition in autistic children, _International Society_ _for Autism Research_. Selected for __poster presentation *__  
 **2020**: _Meeting in Language and Autism (MOLA)_ Selected for oral presentation *  
-**2019**: Literature Reviews and Methods, 101: Invited speaker, Nuts and Bolts of research, _University of Edinburgh_.  
-**2019**: Autism and Bilingualism: Poster presentation at _Salvesen Mindroom Research Centre_ Inaugural lecture.  
-**2019:** Charting the impact of bilingualism on social development for children with and without autism. Oral presentation, _Flux conference_, New York.  
-**2019:** Charting the impact of bilingualism on social development for children with and without autism. Poster Presentation, _Autism Europe_, Nice.  
-**2019:** Autism and Bilingualism workshop, in association with _McGill University_, Montreal, Canada. Invited expert panel member for stakeholder workshop.  
+**2019**: Literature Reviews and Methods, 101: **Invited speaker,** Nuts and Bolts of research, _University of Edinburgh_.  
+**2019**: Autism and Bilingualism: **Poster presentation** at _Salvesen Mindroom Research Centre_ Inaugural lecture.  
+**2019:** Charting the impact of bilingualism on social development for children with and without autism. **Oral presentation**, _Flux conference_, New York.  
+**2019:** Charting the impact of bilingualism on social development for children with and without autism. **Poster Presentation**, _Autism Europe_, Nice.  
+**2019:** Autism and Bilingualism workshop, in association with _McGill University_, Montreal, Canada. **Invited expert panel member for stakeholder workshop**.  
 **2019:** Charting the Impact of Bilingualism on Social and Communicative
-Development in Autistic Children. Poster Presentation, _International Society for_ _Autism Research_, Toronto, Canada.  
-**2019:** Bilingualism Matters annual conference, Edinburgh – Invited speaker **2019**: Autism and Bilingualism. Invited speaker, _Institute of Education_. London.
+Development in Autistic Children. **Poster Presentation,** _International Society for_ _Autism Research_, Toronto, Canada.  
+**2019:** Bilingualism Matters annual conference, Edinburgh, **Invited speaker 2019**: Autism and Bilingualism, **Invited speaker,** _Institute of Education_. London.
 
 \* _Delayed due to Covid-19, but will be presenting at a later date._
 
