@@ -135,8 +135,8 @@ Development in Autistic Children. **Poster Presentation,** _International Societ
 
 ### Selected Public Engagement Activities
 
-> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [Link]()  
-> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [Link_](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")  
+> > **2021:** Ran a workshop on autism and bilingualism for clinicians: (over 150 attendees). [Link](https://patrickwildcentre.com/autism-bilingualism-practitioner-webinar/ "Practitioner Webinar")  
+> > 2021:** Ran a workshop on autism and bilingualism for educators (over 100 attendees. [Link](https://media.ed.ac.uk/media/Autism%20%26%20Bilingualism%3A%20Educator%20Webinar/1_4cp0h4cq "Educator webinar")  
 > > 2020:** Autism and Bilingualism. Selected for _Pint of Science, Edinburgh_ (delayed until November).  
 > > **2020:** Selected to contribute as part of an expert panel on the production of a bilingual measure for researchers (in addition, I am co-author on journal article).  
 > > **2019:** Statistics for non-researchers: _Invited one-day course leader (also_ designed the course)  
@@ -216,7 +216,7 @@ I am currently supervising one PhD student at QMU. I have supervised 10 BSc and 
 
 ### Reviewing work
 
-I regularly review manuscripts for the following journals: _Autism, Autism in Adulthood, Autism & Developmental Language Impairments, Autism Research, Developmental Science, Frontiers in_ _Psychology, Journal of Autism and Developmental_ _Disorders, Perspectives in Psychological Science & Research In Autism_ _Spectrum Disorders._ 
+I regularly review manuscripts for the following journals: _Autism, Autism in Adulthood, Autism & Developmental Language Impairments, Autism Research, Developmental Science, Frontiers in_ _Psychology, Journal of Autism and Developmental_ _Disorders, Perspectives in Psychological Science & Research In Autism_ _Spectrum Disorders._
 
 ### Membership of external organisations
 
